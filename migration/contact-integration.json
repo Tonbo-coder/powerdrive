@@ -1,8 +1,9 @@
 {
-  "checkedAt": "2026-09-27T20:38:04.406Z",
+  "checkedAt": "2026-10-02T22:40:38.836Z",
   "site": "drive",
   "checks": [
     "cross-origin request rejected",
+    "configured Vercel origin accepted and unrelated deployments rejected",
     "unsupported content type rejected",
     "malformed JSON rejected",
     "invalid input rejected",
