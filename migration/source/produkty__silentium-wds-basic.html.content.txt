@@ -1,0 +1,31 @@
+
+ Naše produkty - VOLTDRVEDobíjecí stanice
+Variace AC/DCZpět na hlavní nabídkuSILENTIUM WDS (BASIC)Silentium WDS (Basic) je dvoubodová AC nabíjecí stanice z hliníkové slitiny, určená pro bezpečné a spolehlivé nabíjení dvou elektromobilů současně s výkonem až 22 kW na každém výstupu. Kombinuje robustní konstrukci, moderní design a vysokou míru ochrany (IP54 / IK10) pro instalaci v interiéru i exteriéru. Nabíjení lze spustit automaticky po připojení kabelu nebo po autorizaci RFID kartou. Díky integrovaným ochranným prvkům, proudovým chráničům Typ B a možnostem rozšíření o elektroměr, dynamické řízení výkonu či vzdálený přístup je ideální pro firemní parkoviště, bytové domy i komerční prostory.
+Specifikace
+ 2 × nabíjecí bod – 230 / 400 V AC, max. 32 A (jedno- i třífázové nabíjení)
+ Maximální nabíjecí výkon 11 / 22 kW na výstup
+ Připojení: zásuvka / rovný / spirálový kabel Typ 2 dle IEC 62196
+ Automatický start nabíjení po připojení kabelu nebo autorizace přes RFID kartu
+ Indikace stavu a osvětlení pomocí LED – dobrá viditelnost i v noci
+ Proudový chránič Typ B (AC 30 mA + DC 6 mA) pro každý nabíjecí bod
+ Nadproudová a rozdílová ochrana – vysoká bezpečnost při provozu
+ Hliníková konstrukce s předními servisními dvířky se zámkem
+ Rozměry 450 × 600 × 150 mm • hmotnost cca 17 kg (verze se zásuvkou)
+ Ochrana IP54 / IK10, provozní teplota –30 °C až +50 °C
+ Připojení do sítě TN-S / TN-C (230–400 V, 16 / 32 A, 50 Hz)
+ Režim nabíjení 3 – AC (střídavý výstup), jmenovitý proud 16 / 32 A
+ Volitelné příslušenství: RFID autorizace, elektroměr, odložený start, ENERGY SYSTÉM Voltguard, vlastní design (polep)
+ Možnost dynamického řízení výkonu a spínání HDO – energeticky efektivní provoz
+ Volitelné komunikační moduly: OCPP 1.6, LAN, Wi-Fi, LTE modem
+ Jednoduchá montáž na zeď, vhodná pro vnitřní i venkovní použití
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 

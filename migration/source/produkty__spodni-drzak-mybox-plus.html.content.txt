@@ -1,0 +1,22 @@
+
+ Naše produkty - MYBOXPříslušenstvíZpět na hlavní nabídkuSpodní držák MyBox PlusModel MyBox Plus – Spodní háček je praktickým doplňkem k nabíjecí stanici MyBox Plus, který slouží k přehlednému a bezpečnému uložení nabíjecího kabelu přímo pod wallboxem. Pomáhá udržet prostor kolem stanice uspořádaný, kabel chrání před poškozením a zároveň nenarušuje čistý a minimalistický vzhled celé sestavy. Díky sladěnému designu působí háček jako přirozená součást nabíjecí stanice.
+Specifikace
+ Praktické řešení pro uložení nabíjecího kabelu pod wallbox
+ Doplněk určený speciálně pro nabíjecí stanici MyBox Plus
+ Pevná a stabilní konstrukce pro bezpečné zavěšení kabelu
+ Kovové provedení s odolnou povrchovou úpravou
+ Designově sladěno s nabíjecí stanicí MyBox Plus
+ Vhodné pro vnitřní i venkovní instalaci
+ Pomáhá udržet pořádek a zabránit poškození kabelu
+ Jednoduchá montáž přímo pod nabíjecí stanici
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 

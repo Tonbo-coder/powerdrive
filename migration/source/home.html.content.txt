@@ -1,0 +1,70 @@
+
+ INSTALACE NABÍJECÍCH STANIC NA MÍRUKonzultace, projektová dokumentace, PBŘ, realizace instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Chcete se zeptat?
+ +420 774 966 547
+ info@powerdrive.cz
+ .btn-contact:hover {
+ background-color: #9fbee6 !important;
+ color: white !important;
+ }
+ a[href^="tel:"]:hover,
+ a[href^="mailto:"]:hover {
+ color: #00a878 !important;
+ text-decoration: underline !important;
+ }
+320+instalací★ 4,9průměrné hodnocení75+spokojených zákazníkůCo dělámePoptat řešení
+ 01. ANALÝZA ⬇️
+ Spojíme se s klientem a probereme konkrétní potřeby.
+ 02. NABÍDKA ⬇️
+ Zkalkulujeme finanční nabídku ušitou přesně na míru konkrétnímu zákazníkovi.
+ 03. PROJEKT ⬇️
+ Vytvoříme projektovou dokumentaci či PBŘ reflektující zadání a všechny potřebné normy.
+ 04. REALIZACE ⬇️
+ Realizujeme přímo na místě a řešíme případné komplikace.
+ 05. SERVIS ⬇️
+ Zajišťujeme záruční i pozáruční servis.
+Nedáváme od naší práce ruce pryč.
+Naše realizaceVšechny realizace Firemní DC hub 150 kW2× DC + 4× AC, řízení výkonu, rozúčtování uživatelů.Detail Rezidenční wallboxy 22 kW12 jednotek v garážích, dynamické řízení dle hlavního jističe.Detail Veřejné dobíjeníPlatební terminál, OCPP backend, obchodní centrum.Detail Reference★★★★★„Rychlá instalace DC stanice, perfektní zaškolení. Přechod flotily na EV šel hladce.“LogiTrans a.s.★★★★★„V garážích máme 10 wallboxů s dynamickým řízením – bez výpadků.“SVJ Na Výsluní★★★★★„Skvělý monitoring a rychlý servis. Na dálku vyřešili problém s čtečkou.“Retail Park ŠtěrboholyProdukty
+ .brand-row {
+ display: flex;
+ align-items: center;
+ flex-wrap: wrap;
+ gap: 12px;
+ }
+ .brand-label {
+ font-weight: 500;
+ color: #1F2937;
+ font-size: 16px;
+ }
+ .brand-pills {
+ display: flex;
+ flex-wrap: wrap;
+ gap: 12px;
+ align-items: center;
+ }
+ .brand-pills .pill {
+ display: inline-block;
+ padding: 8px 16px;
+ border: 1px solid #E2E8F0; /* jemný šedý okraj */
+ border-radius: 9999px; /* kulaté „pilulky“ */
+ background: #FFFFFF;
+ color: #1F2937;
+ line-height: 1;
+ font-size: 12px;
+ }
+ Dobíjecí stanice značky:
+ ALFEN
+ VOLTDRIVE
+ MYBOX
+Detail Detail Detail …a další produktyWallboxy, DC stanice, příslušenství a software. Prohlédněte kompletní nabídku.Detail Napište námOzveme se do 1 pracovního dne. Upřesníme záměr a navrhneme nejvhodnější řešení.Jméno *Prosíme, vyplňte toto pole. E-mail *Prosíme, vyplňte toto pole. TelefonSlužbaNejsem si jistý Studie & projekt AC wallbox DC rychlodobíjení Správa & servisZprávaSouhlasím se zpracováním osobních údajů pro účely zpětného kontaktu.PHAgc3R5bGU9Im1hcmdpbjowIDAgMTZweCAwOyI+RG9icsO9IGRlbiw8L3A+Cgo8cCBzdHlsZT0ibWFyZ2luOjAgMCAxNnB4IDA7Ij4KZMSba3VqZW1lIHphIFZhxaFpIHpwcsOhdnUgemFzbGFub3UgcHJvc3TFmWVkbmljdHbDrW0ga29udGFrdG7DrWhvIGZvcm11bMOhxZllCm5hIHdlYnUgPHN0cm9uZz5wb3dlcmRyaXZlLmN6PC9zdHJvbmc+Lgo8L3A+Cgo8cCBzdHlsZT0ibWFyZ2luOjAgMCAyNHB4IDA7Ij4KTsOtxb5lIHV2w6Fkw61tZSBzaHJudXTDrSBWw6FtaSBvZGVzbGFuw71jaCDDumRhasWvOgo8L3A+Cgo8aHIgc3R5bGU9ImJvcmRlcjpub25lO2JvcmRlci10b3A6MXB4IHNvbGlkICNlMGUwZTA7bWFyZ2luOjI0cHggMDsiPgoKPHAgc3R5bGU9Im1hcmdpbjowIDAgMjBweCAwOyI+CjxzdHJvbmc+Sm3DqW5vOjwvc3Ryb25nPjxicj4Ke3tmaXJzdC1uYW1lfX0KPC9wPgoKPHAgc3R5bGU9Im1hcmdpbjowIDAgMjBweCAwOyI+CjxzdHJvbmc+RS1tYWlsOjwvc3Ryb25nPjxicj4KPGEgaHJlZj0ibWFpbHRvOnt7ZW1haWx9fSI+e3tlbWFpbH19PC9hPgo8L3A+Cgo8cCBzdHlsZT0ibWFyZ2luOjAgMCAyMHB4IDA7Ij4KPHN0cm9uZz5PYmxhc3QgesOham11Ojwvc3Ryb25nPjxicj4Ke3tzZXJ2aXN9fQo8L3A+Cgo8cCBzdHlsZT0ibWFyZ2luOjAgMCAwIDA7Ij4KPHN0cm9uZz5acHLDoXZhOjwvc3Ryb25nPjxicj4Ke3ttZXNzYWdlfX0KPC9wPgoKPGhyIHN0eWxlPSJib3JkZXI6bm9uZTtib3JkZXItdG9wOjFweCBzb2xpZCAjZTBlMGUwO21hcmdpbjoyNHB4IDA7Ij4KOdeslat e-mail 
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 

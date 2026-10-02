@@ -1,0 +1,21 @@
+
+ Naše produkty - MYBOXDobíjecí stanice
+Variace AC/DCZpět na hlavní nabídkuMyBox Home 1x 22 kWModel MyBox Home je domácí nabíjecí stanice AC s výkonem až 22 kW, navržená s důrazem na čistý design, vysokou spolehlivost a jednoduchou obsluhu. Díky integrovanému kabelu, možnosti instalace na zeď či stojan, podpoře chytré domácnosti (Wi-Fi, cloud, aplikace) a robustní konstrukci (IP54/IK10) poskytuje komfortní a budoucnosti-připravené řešení pro nabíjení elektromobilu doma nebo v malém firemním provozu. 
+Specifikace
+Výkon až 22 kW (AC), integrovaný kabel pro 1 vozidlo
+Odolnost IP54 / IK10, provozní teplota –30 °C až +50 °C
+Jednoduché připojení a ovládání via mobilní aplikace MyBox, smart LED indikace stavu
+Možnost dynamického řízení výkonu a integrace s fotovoltaikou
+Podpora instalace v interiéru i exteriéru – montáž na stěnu nebo na stojan
+Český výrobek z evropských komponent, s možností individuálního potisku čelního panelu
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 

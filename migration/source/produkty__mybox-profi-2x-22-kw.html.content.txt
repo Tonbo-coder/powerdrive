@@ -1,0 +1,21 @@
+
+ Naše produkty - MYBOXDobíjecí stanice
+Variace AC/DCZpět na hlavní nabídkuMyBox Profi 2x 22 kWModel MyBox Profi je profesionální AC nabíjecí stanice pro dvě vozidla současně (2×22 kW), určená pro firemní, veřejné nebo náročné domácí instalace. Nabízí robustní provedení (ocel/sklo/nerez), vysokou odolnost (IP54/IK10, provoz od –30 °C do +50 °C), a pokročilé funkce jako autorizace RFID, modul pro dynamické řízení výkonu a možnost propojení s dalšími stanicemi či řídicími systémy. 
+Specifikace
+ Výkon 2×22 kW AC – současné nabíjení dvou vozidel
+ Montáž na zeď nebo na stojan, možnost varianty se zásuvkami nebo kabely Typ 2
+ Ochrana IP54 / IK10, provozní teplota –30 °C až +50 °C
+ Certifikovaný elektroměr (MID), připravenost na monetizaci nabíjecích bodů
+ Komunikace Ethernet / 4G/LTE, protokol OCPP pro integraci s backendem
+ Volitelné příslušenství: držák kabelu, kabelový háček, stojan, teplotní kit
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 

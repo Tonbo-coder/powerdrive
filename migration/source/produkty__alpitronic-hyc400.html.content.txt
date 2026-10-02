@@ -1,0 +1,13 @@
+
+ Naše produkty - MYBOXDobíjecí staniceVariace AC/DCZpět na hlavní nabídkuAlpitronic HYC400Řada HYC400 představuje špičkovou DC nabíjecí stanici s výkonem až 400 kW, ideální pro strategie rychlého nabíjení na čerpacích stanicích, v logistice, u parkovišť i výkonných flotilách. Modulární konstrukce (Power-Stack koncept) umožňuje škálování výkonu v 100 kW krocích, účinnost dosahuje až 97,5 %. Robustní konstrukce, podpora běžných standardů (CCS2, CHAdeMO, volitelně NACS/GB/T), paralelní nabíjení více vozidel, rozsáhlé možnosti konektivity a integrace - to vše z této stanice činí řešení připravené na náročné nasazení a budoucnost elektromobility.SpecifikaceVýkon až 400 kW pomocí až 4 Power-Stacků, granularity řízení výkonu po 50 kWVybaveno dvěma zásuvkamiPodpora současného nabíjení dvou či více vozidel paralelně s inteligentním rozdělením výkonuVýstupní napětí 150 V až 1000 V → široká kompatibilita s různými typy vozidelVysoká účinnost až 97,5 % → nižší ztráty, efektivní provozní nákladyInstalace venku i uvnitř, ochrana IP54 / IK10, provozní teplota –30 °C až +55 °CRozměry: cca 2185 × 732 × 663 mm, hmotnost od cca 560 kg (v základní konfiguraci) až do ~890 kg dle provedeníModerní displej 15,6″, možnosti autentifikace (RFID, karty, QR), konektivita (Ethernet, 4G/LTE, OCPP 1.6/2.0)Volitelná úprava designu – barevné provedení, možnost brandingu, kabelový management pro větší pohodlí
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 

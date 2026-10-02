@@ -1,0 +1,70 @@
+{
+  "name": "Powerdrive",
+  "id": "drive",
+  "url": "https://powerdrive.cz",
+  "port": 3001,
+  "logo": "/images/logo-velke-bile-kopie.png",
+  "logoHeight": 105,
+  "email": "info@powerdrive.cz",
+  "phone": "+420 774 966 547",
+  "navigation": [
+    {
+      "label": "Úvod",
+      "href": "/"
+    },
+    {
+      "label": "Co děláme",
+      "href": "/co-delame"
+    },
+    {
+      "label": "Naše realizace",
+      "href": "/nase-realizace"
+    },
+    {
+      "label": "Reference",
+      "href": "/#reference"
+    },
+    {
+      "label": "Produkty",
+      "href": "/produkty",
+      "children": [
+        {
+          "label": "AC dobíjecí stanice",
+          "href": "/produkty#MYBOX",
+          "children": [
+            {
+              "label": "MyBox",
+              "href": "/produkty#MYBOX"
+            },
+            {
+              "label": "ALFEN",
+              "href": "/produkty#ALFEN"
+            },
+            {
+              "label": "VOLTDRIVE",
+              "href": "/produkty#VOLTDRIVE"
+            }
+          ]
+        },
+        {
+          "label": "DC dobíjecí stanice",
+          "href": "/produkty#DCMYBOX",
+          "children": [
+            {
+              "label": "MyBox",
+              "href": "/produkty#DCMYBOX"
+            }
+          ]
+        },
+        {
+          "label": "Příslušenství",
+          "href": "/produkty#prislusenstvi"
+        }
+      ]
+    },
+    {
+      "label": "Kontakt",
+      "href": "/#kontakt"
+    }
+  ]
+}

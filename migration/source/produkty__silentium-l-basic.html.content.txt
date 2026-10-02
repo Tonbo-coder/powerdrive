@@ -1,0 +1,29 @@
+
+ Naše produkty - VOLTDRIVEDobíjecí stanice
+Variace AC/DCZpět na hlavní nabídkuSILENTIUM L (BASIC)Silentium L (Basic) je domácí AC nabíjecí stanice od společnosti VoltDrive určená pro bezpečné a spolehlivé nabíjení elektromobilů s výkonem až 22 kW. Lehká plastová konstrukce v moderním designu umožňuje instalaci v interiéru i exteriéru. Stanice nabízí automatický start po připojení kabelu nebo možnost autorizace přes RFID kartu. Díky integrované nadproudové a rozdílové ochraně, proudovému chrániči Typ B a volitelným funkcím, jako je odložený start či řízení výkonu dle aktuální spotřeby, představuje ideální řešení pro domácí a menší firemní použití.
+Specifikace
+ Automatický start nabíjení po připojení kabelu nebo autorizace RFID kartou
+ 1 × nabíjecí bod – 230 / 400 V, max. 32 A (jednofázový / třífázový)
+ Připojení: zásuvka / rovný kabel / spirálový kabel Typ 2 dle IEC 62196
+ Nabíjecí výkon až 22 kW
+ Indikace stavu pomocí LED + trvalé osvětlení
+ Proudový chránič Typ B (AC 30 mA, DC 6 mA)
+ Nadproudová a rozdílová ochrana – vysoká bezpečnost při provozu
+ Plastové provedení, hmotnost 5 kg (verze se zásuvkou)
+ Rozměry 370 × 370 × 130 mm
+ Ochrana IP54 / IK10, provozní teplota –30 °C až +50 °C
+ Připojení do TN-S nebo TN-C sítě
+ Možnost řízení maximálního proudu nabíjení dle spotřeby objektu (ENERGY SYSTÉM Voltguard / Volterra)
+ Volitelné příslušenství: RFID autorizace, elektroměr, odložený start, vlastní design (např. polep stanice)
+ Jednoduchá montáž a minimální nároky na údržbu
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 

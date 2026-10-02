@@ -1,0 +1,711 @@
+{
+  "checkedAt": "2026-09-27T20:42:14.452Z",
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "title": "Power drive s.r.o. - Instalace nabíjecích stanic na míru",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "home-instalace-nabijecich-stanic-na-miru-section-1",
+        "home-restored-1-1",
+        "home-320-section-1",
+        "home-restored-2-1",
+        "home-restored-3-1",
+        "home-co-delame-section-1",
+        "home-restored-4-1",
+        "realizace",
+        "reference",
+        "home-section-6-section-1",
+        "produkty",
+        "kontakt"
+      ],
+      "originalSections": [
+        "home-instalace-nabijecich-stanic-na-miru-section-1",
+        "home-restored-1-1",
+        "home-320-section-1",
+        "home-restored-2-1",
+        "home-restored-3-1",
+        "home-co-delame-section-1",
+        "home-restored-4-1",
+        "realizace",
+        "reference",
+        "home-section-6-section-1",
+        "produkty",
+        "kontakt"
+      ],
+      "headings": [
+        "INSTALACE NABÍJECÍCH STANIC NA MÍRU",
+        "320+",
+        "★ 4,9",
+        "75+",
+        "Co děláme",
+        "01. ANALÝZA ⬇️",
+        "02. NABÍDKA ⬇️",
+        "03. PROJEKT ⬇️",
+        "04. REALIZACE ⬇️",
+        "05. SERVIS ⬇️",
+        "Naše realizace",
+        "Reference",
+        "Produkty",
+        "Napište nám"
+      ],
+      "originalHeadings": [
+        "INSTALACE NABÍJECÍCH STANIC NA MÍRU",
+        "320+",
+        "★ 4,9",
+        "75+",
+        "Co děláme",
+        "01. ANALÝZA ⬇️",
+        "02. NABÍDKA ⬇️",
+        "03. PROJEKT ⬇️",
+        "04. REALIZACE ⬇️",
+        "05. SERVIS ⬇️",
+        "Naše realizace",
+        "Reference",
+        "Produkty",
+        "Napište nám"
+      ]
+    },
+    {
+      "path": "/co-delame",
+      "status": 200,
+      "title": "Power drive s.r.o. - Co děláme",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "co-delame-co-delame-section-1",
+        "co-delame-01-analyza-section-1",
+        "co-delame-section-3-section-1"
+      ],
+      "originalSections": [
+        "co-delame-co-delame-section-1",
+        "co-delame-01-analyza-section-1",
+        "co-delame-section-3-section-1"
+      ],
+      "headings": [
+        "Co děláme",
+        "01. ANALÝZA ⬇️",
+        "02. NABÍDKA ⬇️",
+        "03. PROJEKT ⬇️",
+        "04. REALIZACE ⬇️",
+        "05. SERVIS ⬇️"
+      ],
+      "originalHeadings": [
+        "Co děláme",
+        "01. ANALÝZA ⬇️",
+        "02. NABÍDKA ⬇️",
+        "03. PROJEKT ⬇️",
+        "04. REALIZACE ⬇️",
+        "05. SERVIS ⬇️"
+      ]
+    },
+    {
+      "path": "/e-mail-podekovani",
+      "status": 200,
+      "title": "Power drive s.r.o. - E-mail poděkování",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "co-delame-co-delame-section-1",
+        "co-delame-section-3-section-1"
+      ],
+      "originalSections": [
+        "co-delame-co-delame-section-1",
+        "co-delame-section-3-section-1"
+      ],
+      "headings": [
+        "Děkujeme za Vaši zprávu",
+        "Vaše zpráva byla úspěšně odeslána.",
+        "Ozveme se Vám co nejdříve, jakmile ji zpracujeme."
+      ],
+      "originalHeadings": [
+        "Děkujeme za Vaši zprávu",
+        "Vaše zpráva byla úspěšně odeslána.",
+        "Ozveme se Vám co nejdříve, jakmile ji zpracujeme."
+      ]
+    },
+    {
+      "path": "/nase-realizace",
+      "status": 200,
+      "title": "Power drive s.r.o. - Naše realizace",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "co-delame-co-delame-section-1",
+        "co-delame-section-3-section-1"
+      ],
+      "originalSections": [
+        "co-delame-co-delame-section-1",
+        "co-delame-section-3-section-1"
+      ],
+      "headings": [
+        "Naše realizace",
+        "STRÁNKU REALIZACE PŘIPRAVUJEME"
+      ],
+      "originalHeadings": [
+        "Naše realizace",
+        "STRÁNKU REALIZACE PŘIPRAVUJEME"
+      ]
+    },
+    {
+      "path": "/produkty",
+      "status": 200,
+      "title": "Power drive s.r.o. - Produkty",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty-nase-produkty-section-1",
+        "MYBOX",
+        "produkty-restored-1-1",
+        "ALFEN",
+        "produkty-restored-2-1",
+        "VOLTDRIVE",
+        "DCMYBOX",
+        "prislusenstvi",
+        "produkty-restored-3-1",
+        "produkty-prislusenstvi-nebo-software-section-1"
+      ],
+      "originalSections": [
+        "produkty-nase-produkty-section-1",
+        "MYBOX",
+        "produkty-restored-1-1",
+        "ALFEN",
+        "produkty-restored-2-1",
+        "VOLTDRIVE",
+        "DCMYBOX",
+        "prislusenstvi",
+        "produkty-restored-3-1",
+        "produkty-prislusenstvi-nebo-software-section-1"
+      ],
+      "headings": [
+        "Naše produkty",
+        "AC dobíjecí stanice",
+        "MYBOX",
+        "ALFEN",
+        "VOLTDRIVE",
+        "DC dobíjecí stanice",
+        "MYBOX",
+        "Příslušenství",
+        "MYBOX",
+        "Příslušenství nebo software?"
+      ],
+      "originalHeadings": [
+        "Naše produkty",
+        "AC dobíjecí stanice",
+        "MYBOX",
+        "ALFEN",
+        "VOLTDRIVE",
+        "DC dobíjecí stanice",
+        "MYBOX",
+        "Příslušenství",
+        "MYBOX",
+        "Příslušenství nebo software?"
+      ]
+    },
+    {
+      "path": "/produkty/alpitronic-hyc200",
+      "status": 200,
+      "title": "Power drive s.r.o. - Alpitronic HYC200",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__eve-double-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-double-pro-line-eve-double-pro-line-section-1"
+      ],
+      "originalSections": [
+        "produkty__eve-double-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-double-pro-line-eve-double-pro-line-section-1"
+      ],
+      "headings": [
+        "Naše produkty - MYBOX",
+        "Alpitronic HYC200",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - MYBOX",
+        "Alpitronic HYC200",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/alpitronic-hyc400",
+      "status": 200,
+      "title": "Power drive s.r.o. - Alpitronic HYC400",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__eve-double-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-double-pro-line-eve-double-pro-line-section-1"
+      ],
+      "originalSections": [
+        "produkty__eve-double-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-double-pro-line-eve-double-pro-line-section-1"
+      ],
+      "headings": [
+        "Naše produkty - MYBOX",
+        "Alpitronic HYC400",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - MYBOX",
+        "Alpitronic HYC400",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/alpitronic-hyc50",
+      "status": 200,
+      "title": "Power drive s.r.o. - Alpitronic HYC50",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__eve-double-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-double-pro-line-eve-double-pro-line-section-1"
+      ],
+      "originalSections": [
+        "produkty__eve-double-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-double-pro-line-eve-double-pro-line-section-1"
+      ],
+      "headings": [
+        "Naše produkty - MYBOX",
+        "Alpitronic HYC50",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - MYBOX",
+        "Alpitronic HYC50",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/eve-double-pro-line",
+      "status": 200,
+      "title": "Power drive s.r.o. - Eve Double Pro-line",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__eve-double-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-double-pro-line-eve-double-pro-line-section-1"
+      ],
+      "originalSections": [
+        "produkty__eve-double-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-double-pro-line-eve-double-pro-line-section-1"
+      ],
+      "headings": [
+        "Naše produkty - ALFEN",
+        "Eve Double Pro-line",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - ALFEN",
+        "Eve Double Pro-line",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/eve-single-pro-line",
+      "status": 200,
+      "title": "Power drive s.r.o. - Eve Single Pro-line",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__eve-single-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-single-pro-line-eve-single-pro-line-section-1"
+      ],
+      "originalSections": [
+        "produkty__eve-single-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-single-pro-line-eve-single-pro-line-section-1"
+      ],
+      "headings": [
+        "Naše produkty - ALFEN",
+        "Eve Single Pro-line",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - ALFEN",
+        "Eve Single Pro-line",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/eve-single-s-line",
+      "status": 200,
+      "title": "Power drive s.r.o. - Eve Single S-line",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__eve-single-s-line-nase-produkty-alfen-section-1",
+        "co-delame-section-3-section-1"
+      ],
+      "originalSections": [
+        "produkty__eve-single-s-line-nase-produkty-alfen-section-1",
+        "co-delame-section-3-section-1"
+      ],
+      "headings": [
+        "Naše produkty - ALFEN",
+        "Eve Single S-line",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - ALFEN",
+        "Eve Single S-line",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/horni-drzak-mybox-home",
+      "status": 200,
+      "title": "Power drive s.r.o. - Horní držák MyBox Home",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__eve-single-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-single-pro-line-eve-single-pro-line-section-1"
+      ],
+      "originalSections": [
+        "produkty__eve-single-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-single-pro-line-eve-single-pro-line-section-1"
+      ],
+      "headings": [
+        "Naše produkty - MYBOX",
+        "Horní držák MyBox Home",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - MYBOX",
+        "Horní držák MyBox Home",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/horni-drzak-mybox-plus",
+      "status": 200,
+      "title": "Power drive s.r.o. - Horní držák MyBox Plus",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__eve-single-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-single-pro-line-eve-single-pro-line-section-1"
+      ],
+      "originalSections": [
+        "produkty__eve-single-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-single-pro-line-eve-single-pro-line-section-1"
+      ],
+      "headings": [
+        "Naše produkty - MYBOX",
+        "Horní držák MyBox Plus",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - MYBOX",
+        "Horní držák MyBox Plus",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/mybox-ebike",
+      "status": 200,
+      "title": "Power drive s.r.o. - MyBox eBike",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__mybox-post-nase-produkty-mybox-section-1",
+        "produkty__mybox-post-mybox-post-section-1"
+      ],
+      "originalSections": [
+        "produkty__mybox-post-nase-produkty-mybox-section-1",
+        "produkty__mybox-post-mybox-post-section-1"
+      ],
+      "headings": [
+        "Naše produkty - MYBOX",
+        "MyBox eBike",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - MYBOX",
+        "MyBox eBike",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/mybox-home-1x-22-kw",
+      "status": 200,
+      "title": "Power drive s.r.o. - MyBox Home 1x 22 kW",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__mybox-home-1x-22-kw-nase-produkty-mybox-section-1",
+        "produkty__mybox-home-1x-22-kw-mybox-home-1x-22-kw-section-1"
+      ],
+      "originalSections": [
+        "produkty__mybox-home-1x-22-kw-nase-produkty-mybox-section-1",
+        "produkty__mybox-home-1x-22-kw-mybox-home-1x-22-kw-section-1"
+      ],
+      "headings": [
+        "Naše produkty - MYBOX",
+        "MyBox Home 1x 22 kW",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - MYBOX",
+        "MyBox Home 1x 22 kW",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/mybox-maly-samostatny-hacek",
+      "status": 200,
+      "title": "Power drive s.r.o. - MyBox Malý Samostatný Háček",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__eve-single-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-single-pro-line-eve-single-pro-line-section-1"
+      ],
+      "originalSections": [
+        "produkty__eve-single-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-single-pro-line-eve-single-pro-line-section-1"
+      ],
+      "headings": [
+        "Naše produkty - MYBOX",
+        "MyBox Malý Samostatný Háček",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - MYBOX",
+        "MyBox Malý Samostatný Háček",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/mybox-plus-1x-22-kw",
+      "status": 200,
+      "title": "Power drive s.r.o. - MyBox Plus 1x 22 kW",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__mybox-post-nase-produkty-mybox-section-1",
+        "produkty__mybox-post-mybox-post-section-1"
+      ],
+      "originalSections": [
+        "produkty__mybox-post-nase-produkty-mybox-section-1",
+        "produkty__mybox-post-mybox-post-section-1"
+      ],
+      "headings": [
+        "Naše produkty - MYBOX",
+        "MyBox Plus 1x 22 kW",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - MYBOX",
+        "MyBox Plus 1x 22 kW",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/mybox-post",
+      "status": 200,
+      "title": "Power drive s.r.o. - MyBox Post",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__mybox-post-nase-produkty-mybox-section-1",
+        "produkty__mybox-post-mybox-post-section-1"
+      ],
+      "originalSections": [
+        "produkty__mybox-post-nase-produkty-mybox-section-1",
+        "produkty__mybox-post-mybox-post-section-1"
+      ],
+      "headings": [
+        "Naše produkty - MYBOX",
+        "MyBox Post",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - MYBOX",
+        "MyBox Post",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/mybox-profi-2x-22-kw",
+      "status": 200,
+      "title": "Power drive s.r.o. - MyBox Profi 2x 22 kW",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__mybox-profi-2x-22-kw-nase-produkty-mybox-section-1",
+        "produkty__mybox-profi-2x-22-kw-mybox-profi-2x-22-kw-section-1"
+      ],
+      "originalSections": [
+        "produkty__mybox-profi-2x-22-kw-nase-produkty-mybox-section-1",
+        "produkty__mybox-profi-2x-22-kw-mybox-profi-2x-22-kw-section-1"
+      ],
+      "headings": [
+        "Naše produkty - MYBOX",
+        "MyBox Profi 2x 22 kW",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - MYBOX",
+        "MyBox Profi 2x 22 kW",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/silentium-l-basic",
+      "status": 200,
+      "title": "Power drive s.r.o. - SILENTIUM L (BASIC)",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__silentium-l-basic-nase-produkty-voltdrive-section-1",
+        "produkty__silentium-l-basic-silentium-l-basic-section-1"
+      ],
+      "originalSections": [
+        "produkty__silentium-l-basic-nase-produkty-voltdrive-section-1",
+        "produkty__silentium-l-basic-silentium-l-basic-section-1"
+      ],
+      "headings": [
+        "Naše produkty - VOLTDRIVE",
+        "SILENTIUM L (BASIC)",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - VOLTDRIVE",
+        "SILENTIUM L (BASIC)",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/silentium-w-basic",
+      "status": 200,
+      "title": "Power drive s.r.o. - SILENTIUM W (BASIC)",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__silentium-w-basic-nase-produkty-voltdrive-section-1",
+        "produkty__silentium-w-basic-silentium-w-basic-section-1"
+      ],
+      "originalSections": [
+        "produkty__silentium-w-basic-nase-produkty-voltdrive-section-1",
+        "produkty__silentium-w-basic-silentium-w-basic-section-1"
+      ],
+      "headings": [
+        "Naše produkty - VOLTDRIVE",
+        "SILENTIUM W (BASIC)",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - VOLTDRIVE",
+        "SILENTIUM W (BASIC)",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/silentium-wds-basic",
+      "status": 200,
+      "title": "Power drive s.r.o. - SILENTIUM WDS (BASIC)",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__silentium-wds-basic-nase-produkty-voltdrve-section-1",
+        "produkty__silentium-wds-basic-silentium-wds-basic-section-1"
+      ],
+      "originalSections": [
+        "produkty__silentium-wds-basic-nase-produkty-voltdrve-section-1",
+        "produkty__silentium-wds-basic-silentium-wds-basic-section-1"
+      ],
+      "headings": [
+        "Naše produkty - VOLTDRVE",
+        "SILENTIUM WDS (BASIC)",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - VOLTDRVE",
+        "SILENTIUM WDS (BASIC)",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/spodni-drzak-mybox-home",
+      "status": 200,
+      "title": "Power drive s.r.o. - Spodní držák MyBox Home",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__eve-single-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-single-pro-line-eve-single-pro-line-section-1"
+      ],
+      "originalSections": [
+        "produkty__eve-single-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-single-pro-line-eve-single-pro-line-section-1"
+      ],
+      "headings": [
+        "Naše produkty - MYBOX",
+        "Spodní držák MyBox Home",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - MYBOX",
+        "Spodní držák MyBox Home",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/spodni-drzak-mybox-plus",
+      "status": 200,
+      "title": "Power drive s.r.o. - Spodní držák MyBox Plus",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__eve-single-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-single-pro-line-eve-single-pro-line-section-1"
+      ],
+      "originalSections": [
+        "produkty__eve-single-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-single-pro-line-eve-single-pro-line-section-1"
+      ],
+      "headings": [
+        "Naše produkty - MYBOX",
+        "Spodní držák MyBox Plus",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - MYBOX",
+        "Spodní držák MyBox Plus",
+        "Specifikace"
+      ]
+    },
+    {
+      "path": "/produkty/velky-samostatny-drzak",
+      "status": 200,
+      "title": "Power drive s.r.o. - Velký samostatný držák",
+      "headingsMatch": true,
+      "sectionsMatch": true,
+      "sections": [
+        "produkty__eve-single-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-single-pro-line-eve-single-pro-line-section-1"
+      ],
+      "originalSections": [
+        "produkty__eve-single-pro-line-nase-produkty-alfen-section-1",
+        "produkty__eve-single-pro-line-eve-single-pro-line-section-1"
+      ],
+      "headings": [
+        "Naše produkty - MYBOX",
+        "Velký samostatný držák",
+        "Specifikace"
+      ],
+      "originalHeadings": [
+        "Naše produkty - MYBOX",
+        "Velký samostatný držák",
+        "Specifikace"
+      ]
+    }
+  ],
+  "uniqueAssets": 175,
+  "notFoundStatus": 404,
+  "issues": []
+}

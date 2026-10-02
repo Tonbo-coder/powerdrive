@@ -1,0 +1,25 @@
+
+ Naše produkty - MYBOXDobíjecí stanice
+Variace AC/DCZpět na hlavní nabídkuMyBox eBike
+ MyBox eBike je odolná nabíjecí stanice navržená pro pohodlné dobíjení elektrokol — až čtyř současně. Díky univerzálním konektorům (Bosch, Shimano i univerzální) a robustní konstrukci je vhodná pro veřejná místa, hotely, restaurace, bytové domy, firmy i developerské projekty. Spojuje čistý design, bezpečnost a praktičnost — zapadne do okolí a ochrání komponenty před povětrností, vandalismem i neoprávněným přístupem.
+Specifikace
+ Kapacita: až 4× elektrokolo současně
+ Výstup: 4× XLR-F konektor (1× Bosch, 1× Shimano, 2× univerzální) + 2× 230 V zásuvka pro další zařízení
+ Rychlé nabíjení: až +40 % kapacity baterie během jedné hodiny
+ Odolnost: krytí IP54 / IK10 — odolné vůči dešti, mrazu, nárazům a vandalismu
+ Provozní teplota: –25 °C až +45 °C — vhodné i pro celoroční venkovní použití
+ Konstrukce: lakovaná nebo nerezová ocel + kalené sklo, uzamykatelné dveře pro bezpečný přístup ke komponentům
+ Montáž: na zeď, plot nebo volitelný stojan — flexibilní instalace podle potřeby
+ LED indikace: stav každého konektoru je přehledně viditelný na LED panelu
+ Kompatibilita: univerzální výstupy + možnost napájet další zařízení — ideální pro hotely, ubytování nebo firmy s cyklisty
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 

@@ -1,0 +1,1290 @@
+{
+  "recordedAt": "2026-09-27T20:46:07.552Z",
+  "origin": "https://powerdrive.cz",
+  "files": [
+    {
+      "local": "/components/com_sppagebuilder/assets/css/animate.min.css",
+      "source": "https://powerdrive.cz/components/com_sppagebuilder/assets/css/animate.min.css?143fb2b8f5d98f82feb246ecc61db33d",
+      "bytes": 70920,
+      "sha256": "a50f04537386196945dfab2e93729fbec5238b70a581fa07d826c0d7b0ffebe2"
+    },
+    {
+      "local": "/components/com_sppagebuilder/assets/css/dynamic-content.css",
+      "source": "https://powerdrive.cz/components/com_sppagebuilder/assets/css/dynamic-content.css?143fb2b8f5d98f82feb246ecc61db33d",
+      "bytes": 1993,
+      "sha256": "96e6db523504eff798b492a4543c2fb2f9f7f43a4a62df518c20c5c2a33ceae6"
+    },
+    {
+      "local": "/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "source": "https://powerdrive.cz/components/com_sppagebuilder/assets/css/magnific-popup.css",
+      "bytes": 5920,
+      "sha256": "bedfcf708d4eb8aa69f75e34183121fee89c8167559fc125f9b4e640d16973e7"
+    },
+    {
+      "local": "/components/com_sppagebuilder/assets/css/sppagebuilder.css",
+      "source": "https://powerdrive.cz/components/com_sppagebuilder/assets/css/sppagebuilder.css?143fb2b8f5d98f82feb246ecc61db33d",
+      "bytes": 204817,
+      "sha256": "8def65275ee5d9d9cefa7298e6e9fa3a26747101d2f6990da98d534e7c536a64"
+    },
+    {
+      "local": "/external/fonts.googleapis.com/css-P2ZhbWlseT1JbnRlcjoxMDAsMTAwaSwy.css",
+      "source": "https://fonts.googleapis.com/css?family=Inter:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=cyrillic&display=swap",
+      "bytes": 4194,
+      "sha256": "ddc7b3c06bc8af6efd8adde9d6a5a1415158d039d151070ffd2f54ff91f73a1d"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRjpWA.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRjpWA.ttf",
+      "bytes": 81060,
+      "sha256": "fe23f7c36feb55ce2d463fdc3f2c472f6105f718b0067ac84379f223c0638254"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRjpWA.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRjpWA.ttf",
+      "bytes": 80664,
+      "sha256": "b19a46953d0d4271ab09fe67fbf555bb43185f8d6d4677df8bd39fbb731b8098"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRjpWA.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRjpWA.ttf",
+      "bytes": 80748,
+      "sha256": "faea4ed561687513e9e692963adba84304f5f69c2345b53eb670128980ccb86c"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRjpWA.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRjpWA.ttf",
+      "bytes": 81068,
+      "sha256": "8e68533ba7994317d3b98df759b7cdbd4280a82d6e941abf0cbd8578475d56dc"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRjpWA.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRjpWA.ttf",
+      "bytes": 81316,
+      "sha256": "b83b968df5053ae068f88770140328d04906dabd49a3a413ee0187b38fe1bcce"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRjpWA.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRjpWA.ttf",
+      "bytes": 81004,
+      "sha256": "ad860d3cbd63c1c7d1fe1cffe5ceac38fa539e1cdd5e349df8cf95cac7bfe25d"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRjpWA.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRjpWA.ttf",
+      "bytes": 81052,
+      "sha256": "995c71cb89a499c0a7bc8a5621782240159c9cfb243f45b8ef45434a4d6faf3e"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRjpWA.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRjpWA.ttf",
+      "bytes": 81056,
+      "sha256": "3ab79e98ae50852fa663f77d8edd969e9d0d7f90a1426c63f22a783e17d5afb4"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRjpWA.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRjpWA.ttf",
+      "bytes": 81304,
+      "sha256": "9d10edd99f317e204da673f779a391a3d5fb8c5fe09c567e1f1e0de29460876e"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZthjQ.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZthjQ.ttf",
+      "bytes": 79884,
+      "sha256": "58acf5cc66851c716600b39aaf2424e2a750430f6b9aa2f4be5dd7ecddb1e459"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZthjQ.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZthjQ.ttf",
+      "bytes": 79620,
+      "sha256": "1161c18f0c86e0f7f9aec0ba440dc902385d4d440f9b977ddc1d6119cc17afb0"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZthjQ.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZthjQ.ttf",
+      "bytes": 79844,
+      "sha256": "3c2c57d4392256d10a5724cf52e40f222ba548e6d43a0472e6c0731ac5e6799e"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthjQ.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthjQ.ttf",
+      "bytes": 79576,
+      "sha256": "7e2f32249fe904e8fe36616b44596cf3a954c83fc6dca7fc3e0e067f28ccdce1"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZthjQ.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZthjQ.ttf",
+      "bytes": 79560,
+      "sha256": "5b32acc527ddbaff852d09d2d804ca5b63cc761983c71374bd2ffb4252607c9d"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZthjQ.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZthjQ.ttf",
+      "bytes": 79408,
+      "sha256": "7859d14be5c596ed7cef878fc83f30acc6b2030fb4161c415d28b0bb53a44927"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZthjQ.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZthjQ.ttf",
+      "bytes": 79616,
+      "sha256": "8480adcf5f9254f1d0ea5224febe87f4fedbd4441bbc674a1574cf0192982e56"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZthjQ.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZthjQ.ttf",
+      "bytes": 79300,
+      "sha256": "a6e51352bb895b85be84dc4e87e14f0fa3883eb58655bdfd07cf958a990f2433"
+    },
+    {
+      "local": "/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZthjQ.ttf",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZthjQ.ttf",
+      "bytes": 79584,
+      "sha256": "9c531c8e4383ce57ba49072462a265295b1c5975cec5396e94d619085340da5d"
+    },
+    {
+      "local": "/files/2025/09/10/mybox-ebike-office-cam-3_3k_final.jpg",
+      "source": "https://powerdrive.cz/files/2025/09/10/mybox-ebike-office-cam-3_3k_final.jpg",
+      "bytes": 4465522,
+      "sha256": "9fb83d3013fd79c6364fae64939938f2e5540b9738cebaab5eb5831311831166"
+    },
+    {
+      "local": "/files/2025/09/10/mybox-post_office-cam-17_3k_final-1.jpg",
+      "source": "https://powerdrive.cz/files/2025/09/10/mybox-post_office-cam-17_3k_final-1.jpg",
+      "bytes": 4388196,
+      "sha256": "7b546f21960611f09a04491ebf57b068e52fdf0732146c8683f382557d53e3b2"
+    },
+    {
+      "local": "/files/2025/09/10/mybox-profi_office-cam-4_3k_final.jpg",
+      "source": "https://powerdrive.cz/files/2025/09/10/mybox-profi_office-cam-4_3k_final.jpg",
+      "bytes": 4851872,
+      "sha256": "56762c19e4804e8c065702bbe23fcb063c0a54c27011410007a845ed3e27645d"
+    },
+    {
+      "local": "/files/2025/09/10/_spmedia_thumbs/mybox-post_office-cam-17_3k_final-1.jpg",
+      "source": "https://powerdrive.cz/files/2025/09/10/_spmedia_thumbs/mybox-post_office-cam-17_3k_final-1.jpg",
+      "bytes": 138769,
+      "sha256": "3ed54225142f956b738b24ff5675d88f293baa28dfc12f7a938ae29487afcfe5"
+    },
+    {
+      "local": "/files/2025/09/10/_spmedia_thumbs/mybox-profi_office-cam-4_3k_final.jpg",
+      "source": "https://powerdrive.cz/files/2025/09/10/_spmedia_thumbs/mybox-profi_office-cam-4_3k_final.jpg",
+      "bytes": 122127,
+      "sha256": "2be1697ad770519986b6148f290b602b7478fa86d917be2578cddf96f372975a"
+    },
+    {
+      "local": "/files/banner/alfen_banner2.jpg",
+      "source": "https://powerdrive.cz/files/banner/alfen_banner2.jpg",
+      "bytes": 163862,
+      "sha256": "d718c852d1be212a17af5942c54c01efc25b49af69ede2b01db3482cac13f8b2"
+    },
+    {
+      "local": "/files/banner/co-delame2.jpg",
+      "source": "https://powerdrive.cz/files/banner/co-delame2.jpg",
+      "bytes": 144221,
+      "sha256": "f507a8a8544821adbfa91dfac688a1b13403f3d24bd5d7222b2f1e9d1020df72"
+    },
+    {
+      "local": "/files/banner/cr5l2610-kopie-scaled2.jpg",
+      "source": "https://powerdrive.cz/files/banner/cr5l2610-kopie-scaled2.jpg",
+      "bytes": 122510,
+      "sha256": "80095a9f02283d00e95a1b4d7efc8494c00ca69893777ec98c5195b1940581ee"
+    },
+    {
+      "local": "/files/banner/drzaky-my-box-prislusenstvi.jpg",
+      "source": "https://powerdrive.cz/files/banner/drzaky-my-box-prislusenstvi.jpg",
+      "bytes": 405118,
+      "sha256": "9e3aa78608a0ab020a46285b993982dc19b3dd778d2664c05f8f4b2014b52a10"
+    },
+    {
+      "local": "/files/banner/mybox-post_office-cam-16_3k_final.jpg",
+      "source": "https://powerdrive.cz/files/banner/mybox-post_office-cam-16_3k_final.jpg",
+      "bytes": 4510013,
+      "sha256": "884977292665ae488ecc089f0cd2af9b1c8fd9ba5f24f25b4044d7b4a2107f8b"
+    },
+    {
+      "local": "/files/banner/mybox_plus_radovka_cam_1_3k_final-1.jpg",
+      "source": "https://powerdrive.cz/files/banner/mybox_plus_radovka_cam_1_3k_final-1.jpg",
+      "bytes": 3812259,
+      "sha256": "0b6a86b21f5bf8679c4ef75bbbb1b0b4342ebcfba860f461397f8acb02f0c968"
+    },
+    {
+      "local": "/files/banner/mybox_stanice_banner.jpg",
+      "source": "https://powerdrive.cz/files/banner/mybox_stanice_banner.jpg",
+      "bytes": 216815,
+      "sha256": "d8ad3de039ce0f035b0427e9ab9a45fbcbb906141f61f6d2569b525768d3d34b"
+    },
+    {
+      "local": "/files/banner/mybox_vila_home_cam_6_3k_final.jpg",
+      "source": "https://powerdrive.cz/files/banner/mybox_vila_home_cam_6_3k_final.jpg",
+      "bytes": 281484,
+      "sha256": "181c8798bf71e1ac1aa38d379fdeccf7f4557703177eef19c9a772d3ac39b7d3"
+    },
+    {
+      "local": "/files/banner/nase-realizace.jpg",
+      "source": "https://powerdrive.cz/files/banner/nase-realizace.jpg",
+      "bytes": 479822,
+      "sha256": "5be21b87ee5db901f567617d960c2426925e234923b213902a4c21e9d16a528c"
+    },
+    {
+      "local": "/files/banner/nase-realizace2.jpg",
+      "source": "https://powerdrive.cz/files/banner/nase-realizace2.jpg",
+      "bytes": 224284,
+      "sha256": "3c0da38cf6ed1c5a58c10371cdf9595e93ed4f76e361dceec5c89c7d9a2e2997"
+    },
+    {
+      "local": "/files/banner/produkty-banner.jpg",
+      "source": "https://powerdrive.cz/files/banner/produkty-banner.jpg",
+      "bytes": 498695,
+      "sha256": "d6301b792a6511aa54bf6c4138296fb3785fcbf11085fe3f746fdd6861193ead"
+    },
+    {
+      "local": "/files/banner/produkty3.jpg",
+      "source": "https://powerdrive.cz/files/banner/produkty3.jpg",
+      "bytes": 413073,
+      "sha256": "a6572d0b5ce83388912a2e5bec8811b622961477a583328401f5cb8ab612b8c3"
+    },
+    {
+      "local": "/files/banner/_spmedia_thumbs/nase-realizace.jpg",
+      "source": "https://powerdrive.cz/files/banner/_spmedia_thumbs/nase-realizace.jpg",
+      "bytes": 95175,
+      "sha256": "aa9c2e732fd957ca8f8ffea3787bbd9e1b698124dcd87b1df3f40bead60cabe2"
+    },
+    {
+      "local": "/files/banner/_spmedia_thumbs/nase-realizace2.jpg",
+      "source": "https://powerdrive.cz/files/banner/_spmedia_thumbs/nase-realizace2.jpg",
+      "bytes": 77092,
+      "sha256": "17ce86a14e5a7a8721f641fb319638bfa20909419d3e2251de4caf5f3e8a1b0a"
+    },
+    {
+      "local": "/files/klienti/mybox-logo2.png",
+      "source": "https://powerdrive.cz/files/klienti/mybox-logo2.png",
+      "bytes": 67753,
+      "sha256": "10fa703353244c0397c6dde089f937104a9d29fe1a392ce7880e9c7a7f0e38a5"
+    },
+    {
+      "local": "/files/klienti/ppl_spoluprace.png",
+      "source": "https://powerdrive.cz/files/klienti/ppl_spoluprace.png",
+      "bytes": 9236,
+      "sha256": "6aecbb957461fbadc8a28cdae994df489a28d493d98bd9e93197d82ac0e61b76"
+    },
+    {
+      "local": "/files/klienti/pre_logo2.png",
+      "source": "https://powerdrive.cz/files/klienti/pre_logo2.png",
+      "bytes": 47896,
+      "sha256": "759089651515ef1694fb00387cbe3f8fde23a0d93b58717ec916d4095608e288"
+    },
+    {
+      "local": "/files/klienti/zentiva.png",
+      "source": "https://powerdrive.cz/files/klienti/zentiva.png",
+      "bytes": 51834,
+      "sha256": "269fe72fe0d2046d60281b7ab700e494292b4036547d82161ee52986135340a8"
+    },
+    {
+      "local": "/files/mapa-powerdrive.jpg",
+      "source": "https://powerdrive.cz/files/mapa-powerdrive.jpg",
+      "bytes": 24679,
+      "sha256": "6bffc1591abdb6a40f0211363c85c225f9ea093b9a2bc4a22bcb89e6ebcc482d"
+    },
+    {
+      "local": "/files/produkty/alfen/eve-double-pro-line/eve-double-grey-cable-pole-side.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve-double-pro-line/eve-double-grey-cable-pole-side.jpg",
+      "bytes": 14714,
+      "sha256": "afecdb9a86162ea342030aa2b59d2c8c637b45a9cb78b33fffa0a0832778b7eb"
+    },
+    {
+      "local": "/files/produkty/alfen/eve-double-pro-line/eve-double-grey-front.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve-double-pro-line/eve-double-grey-front.jpg",
+      "bytes": 16520,
+      "sha256": "b8427750ad500fe2f3f3075928009c350e99218b0324a5c5c43cdccc8bfbe06f"
+    },
+    {
+      "local": "/files/produkty/alfen/eve-double-pro-line/eve-double-grey-pole-front.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve-double-pro-line/eve-double-grey-pole-front.jpg",
+      "bytes": 11374,
+      "sha256": "ecc3e30bff300d8aa7a0ca2764bf7aab9d58a3874537ca46788de00201c5121f"
+    },
+    {
+      "local": "/files/produkty/alfen/eve-double-pro-line/eve-double-white-front.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve-double-pro-line/eve-double-white-front.jpg",
+      "bytes": 16753,
+      "sha256": "e1568f67aa0f5c87e21a1fcb8abaac5f4b7b19dedec0045a3b306bc192a29cb3"
+    },
+    {
+      "local": "/files/produkty/alfen/eve-single-pro-line/eve-single-pro-line-grey-front.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve-single-pro-line/eve-single-pro-line-grey-front.jpg",
+      "bytes": 21124,
+      "sha256": "0dc56b82ff334f45b20f36f8f7da31e1906bc44c58630a32597457c9ffd0d8b3"
+    },
+    {
+      "local": "/files/produkty/alfen/eve-single-pro-line/eve-single-pro-line-white-cable-front.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve-single-pro-line/eve-single-pro-line-white-cable-front.jpg",
+      "bytes": 27740,
+      "sha256": "507696ff85bce6d89cedaa6742f46cd526827ba672146aa54e0abef2b4c29386"
+    },
+    {
+      "local": "/files/produkty/alfen/eve-single-pro-line/eve-single-pro-line-white-cable-pole-front.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve-single-pro-line/eve-single-pro-line-white-cable-pole-front.jpg",
+      "bytes": 17451,
+      "sha256": "ba80235f37ba7f4758fbe6554dcc27d3809b87f7711e707ab2223c94e21644b1"
+    },
+    {
+      "local": "/files/produkty/alfen/eve-single-pro-line/eve-single-pro-line-white-pole-front.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve-single-pro-line/eve-single-pro-line-white-pole-front.jpg",
+      "bytes": 17072,
+      "sha256": "7f584b9c670ce7c32d2f848bd4fa76c89011ae137c43a8a3d29eb8b2ad5e095d"
+    },
+    {
+      "local": "/files/produkty/alfen/eve-single-s-line/eve-single-duo-pole-side-2.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve-single-s-line/eve-single-duo-pole-side-2.jpg",
+      "bytes": 18928,
+      "sha256": "e7a92abbfe2149f2d07f3c30bb790bd4286d41922770ed6edfae6512e8f23e5e"
+    },
+    {
+      "local": "/files/produkty/alfen/eve-single-s-line/eve-single-s-line-white-cable-front.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve-single-s-line/eve-single-s-line-white-cable-front.jpg",
+      "bytes": 26175,
+      "sha256": "5989864b34498ca272cb91588489de335e7674c0b32d7928b40b2a36ced971a1"
+    },
+    {
+      "local": "/files/produkty/alfen/eve-single-s-line/eve-single-s-line-white-cable-pole-front.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve-single-s-line/eve-single-s-line-white-cable-pole-front.jpg",
+      "bytes": 12233,
+      "sha256": "a4e4bc8f229bb7736aaa06a661b60ffe05b968e9320ced63763424781f196c67"
+    },
+    {
+      "local": "/files/produkty/alfen/eve-single-s-line/eve-single-s-line-white-front.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve-single-s-line/eve-single-s-line-white-front.jpg",
+      "bytes": 13433,
+      "sha256": "2416c085675517b7e38edfbd70026ef08bc637f20fa72e0ca65ded416c637244"
+    },
+    {
+      "local": "/files/produkty/alfen/eve_double_pro-line.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve_double_pro-line.jpg",
+      "bytes": 16753,
+      "sha256": "e1568f67aa0f5c87e21a1fcb8abaac5f4b7b19dedec0045a3b306bc192a29cb3"
+    },
+    {
+      "local": "/files/produkty/alfen/eve_single_pro-line.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve_single_pro-line.jpg",
+      "bytes": 27740,
+      "sha256": "507696ff85bce6d89cedaa6742f46cd526827ba672146aa54e0abef2b4c29386"
+    },
+    {
+      "local": "/files/produkty/alfen/eve_single_s-line.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve_single_s-line.jpg",
+      "bytes": 26175,
+      "sha256": "5989864b34498ca272cb91588489de335e7674c0b32d7928b40b2a36ced971a1"
+    },
+    {
+      "local": "/files/produkty/alfen/eve_single_s-line1.jpg",
+      "source": "https://powerdrive.cz/files/produkty/alfen/eve_single_s-line1.jpg",
+      "bytes": 44720,
+      "sha256": "89f37461fb4a68e0a75fe7d21209f09806aa17d1a311752a6d19ed3cfa86cc7b"
+    },
+    {
+      "local": "/files/produkty/mybox/210805_sockel_neuaufbau-3_logo-2.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/210805_sockel_neuaufbau-3_logo-2.jpg",
+      "bytes": 174766,
+      "sha256": "f6f2af99384884f32b15de391462c35cd172b0ad97125c8791003f0f858e230d"
+    },
+    {
+      "local": "/files/produkty/mybox/231112_hyc50_wall_cct_valnia_03.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/231112_hyc50_wall_cct_valnia_03.jpg",
+      "bytes": 290261,
+      "sha256": "96fa5d2d746d52f09a3ba05f5da2c5f7d4b7a3c3ec132dd65c10cd28fc9b9a6f"
+    },
+    {
+      "local": "/files/produkty/mybox/alpitronic_hyc_200.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/alpitronic_hyc_200.jpg",
+      "bytes": 197532,
+      "sha256": "a086c4d715bbe48ae3a132364680ba4bb484c3fbb48197508660d0121ba56d90"
+    },
+    {
+      "local": "/files/produkty/mybox/alpitronic_powerstack400.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/alpitronic_powerstack400.jpg",
+      "bytes": 313987,
+      "sha256": "a2aa442b83931f5a8f3ea391ae55a483f3182de731be1bace4fa54f0dfd7a6da"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/horni-drzak-mybox-home/horni-drzak-mybox-home1.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/horni-drzak-mybox-home/horni-drzak-mybox-home1.jpg",
+      "bytes": 113921,
+      "sha256": "ab98dd3957689abfe6a233b39917c3a799f651dfc06d887ee4e4c237e738a76e"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/horni-drzak-mybox-home/horni-drzak-mybox-home2.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/horni-drzak-mybox-home/horni-drzak-mybox-home2.jpg",
+      "bytes": 100243,
+      "sha256": "aef055e14c1a362ef4a14a011435959cd9382b7b62f8e3cb4a9a31e3c0eb4b27"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/horni-drzak-mybox-home/horni-drzak-mybox-home3.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/horni-drzak-mybox-home/horni-drzak-mybox-home3.jpg",
+      "bytes": 154094,
+      "sha256": "1c0882668082c15cec19c9262d08b3fe8cdb9599e3456d41c001c03ce8748950"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/horni-drzak-mybox-home/horni-drzak-mybox-home4.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/horni-drzak-mybox-home/horni-drzak-mybox-home4.jpg",
+      "bytes": 147630,
+      "sha256": "9fd150358dcb8a94f4e4544513a426ae88c38f395d1fcb45df3b2c692ad571b2"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/horni-drzak-mybox-home/horni-drzak-mybox-home_product.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/horni-drzak-mybox-home/horni-drzak-mybox-home_product.jpg",
+      "bytes": 43462,
+      "sha256": "c09b317fbc6bf86e712f38b951913da01369f9884c7e838d1976e5b15e374d1e"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/horni-drzak-mybox-plus/horni-drzak-mybox-plus1.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/horni-drzak-mybox-plus/horni-drzak-mybox-plus1.jpg",
+      "bytes": 100839,
+      "sha256": "7e6ae24345d546a59c9f5482cde186e9dfd66af24df740dd06a354fadd23692a"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/horni-drzak-mybox-plus/horni-drzak-mybox-plus2.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/horni-drzak-mybox-plus/horni-drzak-mybox-plus2.jpg",
+      "bytes": 93680,
+      "sha256": "832d2e245100081f1249bd4ca611865c7cb671c57832d83e9f29705613d91a45"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/horni-drzak-mybox-plus/horni-drzak-mybox-plus3.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/horni-drzak-mybox-plus/horni-drzak-mybox-plus3.jpg",
+      "bytes": 158629,
+      "sha256": "c38df1cc35916de168aded84cc10cedb8ef8b78e05b596fdd3ad2b33e1536ffa"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/horni-drzak-mybox-plus/horni-drzak-mybox-plus4.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/horni-drzak-mybox-plus/horni-drzak-mybox-plus4.jpg",
+      "bytes": 150227,
+      "sha256": "e39586e26b6cc69426eb43843664c1b2d23336e4fd78d538ac758f1bfd16302f"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/horni-drzak-mybox-plus/horni-drzak-mybox-plus_product.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/horni-drzak-mybox-plus/horni-drzak-mybox-plus_product.jpg",
+      "bytes": 23808,
+      "sha256": "b68a508103b57cd3e6a868d795ed62958130060b670363d9ead438d45aedf264"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/mybox-maly-samostatny-hacek/mybox-maly-samostatny-hacek1.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/mybox-maly-samostatny-hacek/mybox-maly-samostatny-hacek1.jpg",
+      "bytes": 105365,
+      "sha256": "87a3f83ba9ae9daf1bd77f59a00b9585eabd7440e7f35b8dc7e45ac376fae68c"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/mybox-maly-samostatny-hacek/mybox-maly-samostatny-hacek2.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/mybox-maly-samostatny-hacek/mybox-maly-samostatny-hacek2.jpg",
+      "bytes": 145705,
+      "sha256": "1476ea1bb3b1bda5711eb8e9bf687f2045b967de0e90e970405d5a4e8ac4d636"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/mybox-maly-samostatny-hacek/mybox-maly-samostatny-hacek3.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/mybox-maly-samostatny-hacek/mybox-maly-samostatny-hacek3.jpg",
+      "bytes": 173471,
+      "sha256": "727cf2f8d343231d6c270db1cd5e525f9bae9748cc1e77b6364d8a9468cb2f4e"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/mybox-maly-samostatny-hacek/mybox-maly-samostatny-hacek4.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/mybox-maly-samostatny-hacek/mybox-maly-samostatny-hacek4.jpg",
+      "bytes": 138985,
+      "sha256": "d10976b98112190b5ceca22b7128e63154a476235469744e00c035f320da9972"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/mybox-maly-samostatny-hacek/mybox-maly-samostatny-hacek_product.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/mybox-maly-samostatny-hacek/mybox-maly-samostatny-hacek_product.jpg",
+      "bytes": 14613,
+      "sha256": "1147d210f3ea3f3bf24c02f91b08e35c8aab666e7db87410b758ffe79c373655"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/spodni-drzak-mybox-home/mybox-home-spodni-drzak-back-alt.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/spodni-drzak-mybox-home/mybox-home-spodni-drzak-back-alt.jpg",
+      "bytes": 85103,
+      "sha256": "82e645494222360c7608478ea39d92bde7f1e858bb57655b8cf24d5e6e87b010"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/spodni-drzak-mybox-home/mybox-home-spodni-drzak-back.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/spodni-drzak-mybox-home/mybox-home-spodni-drzak-back.jpg",
+      "bytes": 82030,
+      "sha256": "f761010226af5d397659d959d692f255bca26ffcd34870661ddc9a6b15477054"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/spodni-drzak-mybox-home/mybox-home-spodni-drzak-cable-alt.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/spodni-drzak-mybox-home/mybox-home-spodni-drzak-cable-alt.jpg",
+      "bytes": 86802,
+      "sha256": "3d154fae3fe692589075d6ac0a85eac1e0f734e9d3113737ee2e2185560a0cf9"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/spodni-drzak-mybox-home/mybox-home-spodni-drzak.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/spodni-drzak-mybox-home/mybox-home-spodni-drzak.jpg",
+      "bytes": 8780,
+      "sha256": "b0b634de129d8265199c95711382d3726b558e9e0ee614399105b89679a8e318"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/spodni-drzak-mybox-home/mybox-home-wallbox-cable-holder-angle.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/spodni-drzak-mybox-home/mybox-home-wallbox-cable-holder-angle.jpg",
+      "bytes": 42488,
+      "sha256": "e6f01143b777f27829541bece9e80c67fb47aa4b8fb9f008af50b2217ac7091e"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/spodni-drzak-mybox-home/mybox-home-wallbox-cable-holder-detail.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/spodni-drzak-mybox-home/mybox-home-wallbox-cable-holder-detail.jpg",
+      "bytes": 45774,
+      "sha256": "42fb4a8a71a4ec995ee6323dc866d12fc9f0d2215212cec3909e87f8876828e0"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/spodni-drzak-mybox-plus/spodni-drzak-mybox-plus1.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/spodni-drzak-mybox-plus/spodni-drzak-mybox-plus1.jpg",
+      "bytes": 70737,
+      "sha256": "4850cc5e5a5f1741df47e3b6f728791ff29f86e4638ef1efb2b6037911e17a82"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/spodni-drzak-mybox-plus/spodni-drzak-mybox-plus2.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/spodni-drzak-mybox-plus/spodni-drzak-mybox-plus2.jpg",
+      "bytes": 152417,
+      "sha256": "6da0ea13e14147f25e3817ce9b913f2514559a0a0b2572d349f9e4ca2001c5af"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/spodni-drzak-mybox-plus/spodni-drzak-mybox-plus3.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/spodni-drzak-mybox-plus/spodni-drzak-mybox-plus3.jpg",
+      "bytes": 163650,
+      "sha256": "188bf8a82da2b4d2a76a831f295016962ee6703c5b8d9d2d7222f4ca4d561ef2"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/spodni-drzak-mybox-plus/spodni-drzak-mybox-plus4.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/spodni-drzak-mybox-plus/spodni-drzak-mybox-plus4.jpg",
+      "bytes": 95877,
+      "sha256": "a91bfe1858ea1e04f6a00c2754f6a872e1f659c5eba164953782355a41c47923"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/spodni-drzak-mybox-plus/spodni-drzak-mybox-plus_product.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/spodni-drzak-mybox-plus/spodni-drzak-mybox-plus_product.jpg",
+      "bytes": 23530,
+      "sha256": "dcc2147083358afac82612df129d810c515448684280b550338ec50d050b22cd"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/velky-samostatny-drzak/velky-samostatny-drzak_mybox1.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/velky-samostatny-drzak/velky-samostatny-drzak_mybox1.jpg",
+      "bytes": 118534,
+      "sha256": "0629e8e4d635d23548f15332380782b78dfef56ad3923f2ea91ccad6898780ee"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/velky-samostatny-drzak/velky-samostatny-drzak_mybox2.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/velky-samostatny-drzak/velky-samostatny-drzak_mybox2.jpg",
+      "bytes": 135190,
+      "sha256": "58b948de0fc25e5b547dc5970e2b8b44aca980d5d8da6739021c6d705d2f90c9"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/velky-samostatny-drzak/velky-samostatny-drzak_mybox3.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/velky-samostatny-drzak/velky-samostatny-drzak_mybox3.jpg",
+      "bytes": 117577,
+      "sha256": "f316cbd9e1b2146eda869f2665ae235c4dbaf7c51d377551b4690c1dba99eb0c"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/velky-samostatny-drzak/velky-samostatny-drzak_mybox4.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/velky-samostatny-drzak/velky-samostatny-drzak_mybox4.jpg",
+      "bytes": 154478,
+      "sha256": "95e23373a3ef0effb32300cc9b702e5bf076b6dec759f7ba2c8998663d18dedf"
+    },
+    {
+      "local": "/files/produkty/mybox/drzaky/velky-samostatny-drzak/velky-samostatny-drzak_mybox_product.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/drzaky/velky-samostatny-drzak/velky-samostatny-drzak_mybox_product.jpg",
+      "bytes": 25288,
+      "sha256": "ac26b6d7812cf0347a485446d82c9c03f49b7c4985649012764d2396073c38d2"
+    },
+    {
+      "local": "/files/produkty/mybox/ebike/mybox_ebike.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/ebike/mybox_ebike.jpg",
+      "bytes": 18323,
+      "sha256": "9263ff2829203f1925bd1764750e8e3a1fbee299229054a175d3ee2967909f3b"
+    },
+    {
+      "local": "/files/produkty/mybox/ebike/mybox_ebike2.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/ebike/mybox_ebike2.jpg",
+      "bytes": 93542,
+      "sha256": "ebba6eb02ff81687c5a71fbdff1e0f3632f802aaf4af6be2495fc2753fe37099"
+    },
+    {
+      "local": "/files/produkty/mybox/ebike/mybox_ebike3.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/ebike/mybox_ebike3.jpg",
+      "bytes": 98327,
+      "sha256": "3925bb8d7f81fd37db3f2aa7f41266e3d77fa2b4b63aff44077121bc595bf7bf"
+    },
+    {
+      "local": "/files/produkty/mybox/ebike/mybox_ebike4.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/ebike/mybox_ebike4.jpg",
+      "bytes": 141401,
+      "sha256": "9eaa473c295ba046e022d25a767fe306bb53cb00cc0ad98e4aa0b3c523ef6dc4"
+    },
+    {
+      "local": "/files/produkty/mybox/home/my_box_home1.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/home/my_box_home1.jpg",
+      "bytes": 49919,
+      "sha256": "04d4641466506c4182b77bf53acecf5c2e2993b70810fc554dafab25ee8e49cd"
+    },
+    {
+      "local": "/files/produkty/mybox/home/my_box_home2.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/home/my_box_home2.jpg",
+      "bytes": 54391,
+      "sha256": "6152d535a98fe184e5db676561ce9e421d4f2dd768137f6654d4643e0cb01652"
+    },
+    {
+      "local": "/files/produkty/mybox/home/my_box_home3.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/home/my_box_home3.jpg",
+      "bytes": 55774,
+      "sha256": "4138fabf6f729636999c3549d8281dbc70e209a37deab6a642bd6e71d3edc3ae"
+    },
+    {
+      "local": "/files/produkty/mybox/home/my_box_home4.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/home/my_box_home4.jpg",
+      "bytes": 50619,
+      "sha256": "0e70525a2622cdc99d2adbb6b5011f6efeccd258e366e7552ae331e45f94c607"
+    },
+    {
+      "local": "/files/produkty/mybox/hyc200_ccs_cms.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/hyc200_ccs_cms.jpg",
+      "bytes": 297424,
+      "sha256": "3cf2fd8d34d69d62b075f10b55dc963f173e741f6001a14229ab0a532c680525"
+    },
+    {
+      "local": "/files/produkty/mybox/hyc400_bok.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/hyc400_bok.jpg",
+      "bytes": 83285,
+      "sha256": "0de4175313b8ec46815283aaeea8b1a5485cda127ed573c04b90d896f555b1d4"
+    },
+    {
+      "local": "/files/produkty/mybox/hyc_200_front-1.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/hyc_200_front-1.jpg",
+      "bytes": 191399,
+      "sha256": "d6982ffbe779ee394f345b5a10a3eae55c3d5cbf2c4981c6b5a0e35524c93edf"
+    },
+    {
+      "local": "/files/produkty/mybox/hyc_200_powerstack.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/hyc_200_powerstack.jpg",
+      "bytes": 169137,
+      "sha256": "b152be0d7150e265f93d12e4044a001301af417c241a14b164c8e02e1eda3190"
+    },
+    {
+      "local": "/files/produkty/mybox/mybox-post/mybox_post1.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/mybox-post/mybox_post1.jpg",
+      "bytes": 23185,
+      "sha256": "5a79d3af07e58e2d253c09de04655e21481a7440e7ec0a157c130615226a2bc5"
+    },
+    {
+      "local": "/files/produkty/mybox/mybox-post/mybox_post2.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/mybox-post/mybox_post2.jpg",
+      "bytes": 94356,
+      "sha256": "88dd2777b579405cbeea396f23615b2f0455e4e65d4914d474c347dce87bb775"
+    },
+    {
+      "local": "/files/produkty/mybox/mybox-post/mybox_post3.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/mybox-post/mybox_post3.jpg",
+      "bytes": 35278,
+      "sha256": "14e76591640d3e3caf24b841a68296cec6af75ccc424fa4adc18a432ce05a8be"
+    },
+    {
+      "local": "/files/produkty/mybox/mybox-post/mybox_post4.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/mybox-post/mybox_post4.jpg",
+      "bytes": 29400,
+      "sha256": "961a44af73a0445e4705e3b4be3e3c36e7f366830e3d7195790fe7dd409d82a5"
+    },
+    {
+      "local": "/files/produkty/mybox/mybox_home_1x_22kw.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/mybox_home_1x_22kw.jpg",
+      "bytes": 20213,
+      "sha256": "f028db74a84ba6f7bd38b809059791151e25608d185c63e5ee3ee64ebf27ba2a"
+    },
+    {
+      "local": "/files/produkty/mybox/mybox_plus_1x_22kw.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/mybox_plus_1x_22kw.jpg",
+      "bytes": 20193,
+      "sha256": "e429e112127e54739889d5cad0439a37b3a82e0338d7c619785ab8bfb8cd0034"
+    },
+    {
+      "local": "/files/produkty/mybox/mybox_profi_2x_22kw.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/mybox_profi_2x_22kw.jpg",
+      "bytes": 23833,
+      "sha256": "5a3f726b351104935758a10afa49b858d85d1091330c1f87f873e328df1ad3c2"
+    },
+    {
+      "local": "/files/produkty/mybox/mybox_wallbox_22kw.png",
+      "source": "https://powerdrive.cz/files/produkty/mybox/mybox_wallbox_22kw.png",
+      "bytes": 81209,
+      "sha256": "7c5507949717bcc57853dbc8606fa59c284b429e6520e39d9060980e9bb52b2f"
+    },
+    {
+      "local": "/files/produkty/mybox/plus/mybox-plus-bez-displeje.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/plus/mybox-plus-bez-displeje.jpg",
+      "bytes": 39266,
+      "sha256": "403bdeed8e22ef822f76b108fd1f23c9eeac9137464e2dc0ebcb01e6455644e7"
+    },
+    {
+      "local": "/files/produkty/mybox/plus/mybox-plus1x.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/plus/mybox-plus1x.jpg",
+      "bytes": 35556,
+      "sha256": "550fe4d79187da4b92d720e209f4f9ccf5a39c8cf04f6320bc3311d5222a66ac"
+    },
+    {
+      "local": "/files/produkty/mybox/product_hyc400.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/product_hyc400.jpg",
+      "bytes": 301687,
+      "sha256": "ba7f3c1c686a4b874acfc441b4b5e11fb88872d2aaf240d087181c60b7854d52"
+    },
+    {
+      "local": "/files/produkty/mybox/product_mybox_hyc200.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/product_mybox_hyc200.jpg",
+      "bytes": 18271,
+      "sha256": "17e362e8ce31c62ebe94c1a460df1622be317a42b081db02d8d0a8f5ee43e77b"
+    },
+    {
+      "local": "/files/produkty/mybox/product_mybox_hyc400.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/product_mybox_hyc400.jpg",
+      "bytes": 19682,
+      "sha256": "b74e78125c3e3cc11d6796af45b150f5834ec15216a846d2f59b4e68f5a82804"
+    },
+    {
+      "local": "/files/produkty/mybox/product_mybox_hyc500.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/product_mybox_hyc500.jpg",
+      "bytes": 17812,
+      "sha256": "98df5280c83b449e5301cc465269fd19bd268901900bbc9b2f8ca1c27417fb62"
+    },
+    {
+      "local": "/files/produkty/mybox/profi/mybox_profi_2022_kabelova_verze.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/profi/mybox_profi_2022_kabelova_verze.jpg",
+      "bytes": 45052,
+      "sha256": "269f0bad0f1244b19ca68162abceb649c29e5fa18c6269e75804c4bd2ae81924"
+    },
+    {
+      "local": "/files/produkty/mybox/profi/mybox_profi_2022_kabelova_verze2.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/profi/mybox_profi_2022_kabelova_verze2.jpg",
+      "bytes": 40746,
+      "sha256": "4c5a04ae64e9e2f7e889d72e35b3328249aa15ed5a70577cb11e799568543066"
+    },
+    {
+      "local": "/files/produkty/mybox/profi/mybox_profi_2022_zasuvka.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/profi/mybox_profi_2022_zasuvka.jpg",
+      "bytes": 37684,
+      "sha256": "34311c525b4af62cf5eaef491b422dd0195c1b17a223ae9abf8ad2e2a280f11a"
+    },
+    {
+      "local": "/files/produkty/mybox/_spmedia_thumbs/210805_sockel_neuaufbau-3_logo-2.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/_spmedia_thumbs/210805_sockel_neuaufbau-3_logo-2.jpg",
+      "bytes": 26499,
+      "sha256": "007cfd4c0386372911ec4ae6019bf1790319913c48d218cbc577286cb4f170f0"
+    },
+    {
+      "local": "/files/produkty/mybox/_spmedia_thumbs/231112_hyc50_wall_cct_valnia_03.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/_spmedia_thumbs/231112_hyc50_wall_cct_valnia_03.jpg",
+      "bytes": 39682,
+      "sha256": "b73b72c8a261ad6bb1f8088403292c5e9fe4d340e2dbad17ee3541dd263952a6"
+    },
+    {
+      "local": "/files/produkty/mybox/_spmedia_thumbs/alpitronic_hyc_200.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/_spmedia_thumbs/alpitronic_hyc_200.jpg",
+      "bytes": 31176,
+      "sha256": "c6d4dd385f45984f94cdaa8965f554126eaafd5d9509f267e3e9fc73185fe434"
+    },
+    {
+      "local": "/files/produkty/mybox/_spmedia_thumbs/hyc200_ccs_cms.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/_spmedia_thumbs/hyc200_ccs_cms.jpg",
+      "bytes": 27283,
+      "sha256": "3d508e4f87bacddcf5b9fce7571df7090c878d44a9a3f32c16f4636fac2a9582"
+    },
+    {
+      "local": "/files/produkty/mybox/_spmedia_thumbs/hyc_200_front-1.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/_spmedia_thumbs/hyc_200_front-1.jpg",
+      "bytes": 29561,
+      "sha256": "f74172261323bbef1f4218c0e8f281b0cbc6d64d68f32272d4bce531f85e67ba"
+    },
+    {
+      "local": "/files/produkty/mybox/_spmedia_thumbs/hyc_200_powerstack.jpg",
+      "source": "https://powerdrive.cz/files/produkty/mybox/_spmedia_thumbs/hyc_200_powerstack.jpg",
+      "bytes": 27114,
+      "sha256": "0db3998d16a8d7914c2e4297f5aa55469c70c7c6c07f534bed0a2dbd77fb2bbe"
+    },
+    {
+      "local": "/files/produkty/silentium/silentium-l-sloupek.jpg",
+      "source": "https://powerdrive.cz/files/produkty/silentium/silentium-l-sloupek.jpg",
+      "bytes": 28855,
+      "sha256": "f70d633f205c1d7b2b17c3eef54f182efae68d59cefa11ded115236a6defc084"
+    },
+    {
+      "local": "/files/produkty/silentium/silentium-l.jpg",
+      "source": "https://powerdrive.cz/files/produkty/silentium/silentium-l.jpg",
+      "bytes": 48373,
+      "sha256": "d52a7c2ef2706b577f79025f6b9c02d4af5923f9e802e17af5fd59c44590b876"
+    },
+    {
+      "local": "/files/produkty/silentium/silentium-w-bez-sloupku.jpg",
+      "source": "https://powerdrive.cz/files/produkty/silentium/silentium-w-bez-sloupku.jpg",
+      "bytes": 53267,
+      "sha256": "39588df9bc80b316439465a26c88d63f95acaabf96a4bd424735702f743086e6"
+    },
+    {
+      "local": "/files/produkty/silentium/silentium-w-sloupek_web-200px-1.png",
+      "source": "https://powerdrive.cz/files/produkty/silentium/silentium-w-sloupek_web-200px-1.png",
+      "bytes": 60689,
+      "sha256": "ff68776c1d50ede3a461c4ff8477ca2432bca29a4e35cf4802c8902efd1479a4"
+    },
+    {
+      "local": "/files/produkty/silentium/silentium_l_basic.jpg",
+      "source": "https://powerdrive.cz/files/produkty/silentium/silentium_l_basic.jpg",
+      "bytes": 29299,
+      "sha256": "84ab759aedba88bd0c70134c08494540868ef58f8d8d4193748be396802d4744"
+    },
+    {
+      "local": "/files/produkty/silentium/silentium_wds_basic1.jpg",
+      "source": "https://powerdrive.cz/files/produkty/silentium/silentium_wds_basic1.jpg",
+      "bytes": 64765,
+      "sha256": "1b534dfb5ac0ef37a48ed130daaccb15887470e8518c2638afa5a86406751556"
+    },
+    {
+      "local": "/files/produkty/silentium/silentium_wds_basic_product.jpg",
+      "source": "https://powerdrive.cz/files/produkty/silentium/silentium_wds_basic_product.jpg",
+      "bytes": 31023,
+      "sha256": "6af1e2cecf451c3777d960d02503dc97de068bb5f4ed46dea01dadab0c157609"
+    },
+    {
+      "local": "/files/produkty/silentium/silentium_w_basic.jpg",
+      "source": "https://powerdrive.cz/files/produkty/silentium/silentium_w_basic.jpg",
+      "bytes": 31882,
+      "sha256": "63be757516c01a5b34770a17132521ca76d26203690c014f850f8b6adb191d81"
+    },
+    {
+      "local": "/files/produkty/silentium/wsc-sloupek.jpg",
+      "source": "https://powerdrive.cz/files/produkty/silentium/wsc-sloupek.jpg",
+      "bytes": 41292,
+      "sha256": "e4908bf4b5912ec9c178bc0a817a1645fe29e1a8957e87833fcbdde91a8ac624"
+    },
+    {
+      "local": "/files/produkty/silentium/wsc.jpg",
+      "source": "https://powerdrive.cz/files/produkty/silentium/wsc.jpg",
+      "bytes": 53194,
+      "sha256": "8ec039f12bc17d2ff6eb2639b6b90d92eccb5af2ea419c8be588e3952a2ddd4f"
+    },
+    {
+      "local": "/files/produkty/silentium/_spmedia_thumbs/silentium-l-sloupek.jpg",
+      "source": "https://powerdrive.cz/files/produkty/silentium/_spmedia_thumbs/silentium-l-sloupek.jpg",
+      "bytes": 12977,
+      "sha256": "7781060cbdecaa1c3c6a6a2f171757d7bbd786998ca91493ae10ed36fcc311da"
+    },
+    {
+      "local": "/files/produkty/silentium/_spmedia_thumbs/silentium-l.jpg",
+      "source": "https://powerdrive.cz/files/produkty/silentium/_spmedia_thumbs/silentium-l.jpg",
+      "bytes": 31425,
+      "sha256": "71b7e1eeaa12addd14544b5c1cc38e127d14e3369a4a279fcc815b47c207db73"
+    },
+    {
+      "local": "/files/tk_eko.jpg",
+      "source": "https://powerdrive.cz/files/tk_eko.jpg",
+      "bytes": 50016,
+      "sha256": "255514d77849e3bcb4e76f07acf02ecbf8f002ebf9dbd0896bba58567e6223dd"
+    },
+    {
+      "local": "/images/favicon3.png",
+      "source": "https://powerdrive.cz/images/favicon3.png",
+      "bytes": 15416,
+      "sha256": "13aba55f33fc44d33fe4f2763451b6ee76c47c40a5ffaec060f5585e091f9c85"
+    },
+    {
+      "local": "/images/logo-velke-bile-kopie.png",
+      "source": "https://powerdrive.cz/images/logo-velke-bile-kopie.png",
+      "bytes": 2287850,
+      "sha256": "164659b7216439be08b72f38bb1d2b59469a502eb354d414348eb31f839f45d2"
+    },
+    {
+      "local": "/media/sppb-css/page-09153651bb6b.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-09153651bb6b.css",
+      "bytes": 43530,
+      "sha256": "7d99d8e7a28baa0b212ea3c03be3abd9d0a6c96ef04f5b47022ac39bd2d2ec78"
+    },
+    {
+      "local": "/media/sppb-css/page-0ad105b26f13.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-0ad105b26f13.css",
+      "bytes": 43530,
+      "sha256": "7d99d8e7a28baa0b212ea3c03be3abd9d0a6c96ef04f5b47022ac39bd2d2ec78"
+    },
+    {
+      "local": "/media/sppb-css/page-0af3c9380051.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-0af3c9380051.css",
+      "bytes": 41073,
+      "sha256": "3836191b19fdfa5ab02e4452eed3bf92156bf3a7e120fdc7f8b2d5ba695501f8"
+    },
+    {
+      "local": "/media/sppb-css/page-0ec72d2fa657.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-0ec72d2fa657.css",
+      "bytes": 42671,
+      "sha256": "31c2fa73926c80d25f2a72545a241b590694ce8b4c611aff72d5ae8813cfc64d"
+    },
+    {
+      "local": "/media/sppb-css/page-155d2258b100.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-155d2258b100.css",
+      "bytes": 41004,
+      "sha256": "f0d0d2a4fbaab70eafd811a55852491450eb3b99b88b2a506523f324d36edddf"
+    },
+    {
+      "local": "/media/sppb-css/page-1e00623b4d9a.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-1e00623b4d9a.css",
+      "bytes": 40873,
+      "sha256": "329ce0105bf698ab48b52444d71e292da7cc3300db54422924a0b6b933a22c95"
+    },
+    {
+      "local": "/media/sppb-css/page-1e157b244f64.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-1e157b244f64.css",
+      "bytes": 40996,
+      "sha256": "acff42371b7b8c93f2c97ab3c99115ec41642429ecf079d700608a2dcc34f45e"
+    },
+    {
+      "local": "/media/sppb-css/page-21334957ca91.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-21334957ca91.css",
+      "bytes": 41004,
+      "sha256": "6a610923f1e57b955f55beb3a43f3431b50ca39839aa5dc029b24a32648892c7"
+    },
+    {
+      "local": "/media/sppb-css/page-41cfd6daf805.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-41cfd6daf805.css",
+      "bytes": 135964,
+      "sha256": "615d84d4f520c497a3ab6edbd12dd54075513152e34dc0b32c3aaf4eee9e0f77"
+    },
+    {
+      "local": "/media/sppb-css/page-495b51162ce0.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-495b51162ce0.css",
+      "bytes": 36219,
+      "sha256": "e92842c2759a8e8e3ea8541e31cea23c5c9b897b665ae97a030ff01092079d30"
+    },
+    {
+      "local": "/media/sppb-css/page-6087a5cf5da7.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-6087a5cf5da7.css",
+      "bytes": 41073,
+      "sha256": "f3d4d98b69a4c7b34518e5d4b654381c09fa99337155746b50d7d19857b94ac0"
+    },
+    {
+      "local": "/media/sppb-css/page-6926a6415565.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-6926a6415565.css",
+      "bytes": 41073,
+      "sha256": "3836191b19fdfa5ab02e4452eed3bf92156bf3a7e120fdc7f8b2d5ba695501f8"
+    },
+    {
+      "local": "/media/sppb-css/page-6e59a7af57a4.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-6e59a7af57a4.css",
+      "bytes": 43530,
+      "sha256": "7d99d8e7a28baa0b212ea3c03be3abd9d0a6c96ef04f5b47022ac39bd2d2ec78"
+    },
+    {
+      "local": "/media/sppb-css/page-6e9803ca5325.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-6e9803ca5325.css",
+      "bytes": 40866,
+      "sha256": "7cc8ac54de5b9d8ea90471c412f4e395d532273c75182afd21bd09cdc8bd5c7a"
+    },
+    {
+      "local": "/media/sppb-css/page-70d4d7bb3bb4.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-70d4d7bb3bb4.css",
+      "bytes": 43530,
+      "sha256": "7d99d8e7a28baa0b212ea3c03be3abd9d0a6c96ef04f5b47022ac39bd2d2ec78"
+    },
+    {
+      "local": "/media/sppb-css/page-74955d6a5fec.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-74955d6a5fec.css",
+      "bytes": 40796,
+      "sha256": "194334b61cb655c6b0e87f1b074c62ffbd8c398a8d5bd49ce05a7be94ec4f974"
+    },
+    {
+      "local": "/media/sppb-css/page-771ca7b351a1.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-771ca7b351a1.css",
+      "bytes": 35228,
+      "sha256": "2e52ac1a940e22423169d18a24a878b9e5f080e3c9cf903176ea325642acfdf2"
+    },
+    {
+      "local": "/media/sppb-css/page-783e1870c3fc.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-783e1870c3fc.css",
+      "bytes": 60631,
+      "sha256": "6e1474197d9c9af7efd149770a702c2946b2878ab812ff95a1d03baf5a6d9680"
+    },
+    {
+      "local": "/media/sppb-css/page-7caaa4247cd9.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-7caaa4247cd9.css",
+      "bytes": 43530,
+      "sha256": "7d99d8e7a28baa0b212ea3c03be3abd9d0a6c96ef04f5b47022ac39bd2d2ec78"
+    },
+    {
+      "local": "/media/sppb-css/page-89771458d953.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-89771458d953.css",
+      "bytes": 41007,
+      "sha256": "181cd20ec4d5d8c1f8c219d941ebf6c57582fb67f656897f07ebbab466cfda4a"
+    },
+    {
+      "local": "/media/sppb-css/page-990520220c81.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-990520220c81.css",
+      "bytes": 40927,
+      "sha256": "15aab26b6445586a6be0433db8ea6875ef29eb286a314d18a90057fa7d0d5fa9"
+    },
+    {
+      "local": "/media/sppb-css/page-a1f4e6eb97bd.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-a1f4e6eb97bd.css",
+      "bytes": 40919,
+      "sha256": "6ae8e3c1f9e38170ee36a29c410efc7d3fc9066aab27ee24a1903038a9174fed"
+    },
+    {
+      "local": "/media/sppb-css/page-a3219f9268ec.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-a3219f9268ec.css",
+      "bytes": 186658,
+      "sha256": "a47c967db14f4e371478d125afcd546d65c078eeba829a9043db550d9d9bdf53"
+    },
+    {
+      "local": "/media/sppb-css/page-c40c77ae7d50.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-c40c77ae7d50.css",
+      "bytes": 40659,
+      "sha256": "cb87fe69ce577a676dd3c43074a89e016933e65be880e314f47e1da290443829"
+    },
+    {
+      "local": "/media/sppb-css/page-f028e9dc0cb6.css",
+      "source": "https://powerdrive.cz/media/sppb-css/page-f028e9dc0cb6.css",
+      "bytes": 40866,
+      "sha256": "cdf7cbf5b5a1155f565c5caf62931e7d3fb48c37e0e7007e73c048941af41a61"
+    },
+    {
+      "local": "/media/system/css/joomla-fontawesome.min.css",
+      "source": "https://powerdrive.cz/media/system/css/joomla-fontawesome.min.css?1e5104",
+      "bytes": 102627,
+      "sha256": "4ec53bed7de1a96473f3776ac3ff834a0b9e1e9352125a0578165c8f4f3fee95"
+    },
+    {
+      "local": "/media/vendor/fontawesome-free/webfonts/fa-brands-400.ttf",
+      "source": "https://powerdrive.cz/media/vendor/fontawesome-free/webfonts/fa-brands-400.ttf?v=15d54d",
+      "bytes": 210792,
+      "sha256": "808443ae6c8204395add8543da8a90a60b9376fb0f87ed8e8ea37d109596d805"
+    },
+    {
+      "local": "/media/vendor/fontawesome-free/webfonts/fa-brands-400.woff2",
+      "source": "https://powerdrive.cz/media/vendor/fontawesome-free/webfonts/fa-brands-400.woff2?v=cbcf42",
+      "bytes": 118684,
+      "sha256": "d7236a19bf23cbb2027280e8f51dc99d6c45976a2ed60de73382b034b18a2b68"
+    },
+    {
+      "local": "/media/vendor/fontawesome-free/webfonts/fa-regular-400.ttf",
+      "source": "https://powerdrive.cz/media/vendor/fontawesome-free/webfonts/fa-regular-400.ttf?v=262525",
+      "bytes": 68064,
+      "sha256": "54cf6086f7bb21f9d072ad494a19b4681fa516dd0a14cee52da01d3651a913a3"
+    },
+    {
+      "local": "/media/vendor/fontawesome-free/webfonts/fa-regular-400.woff2",
+      "source": "https://powerdrive.cz/media/vendor/fontawesome-free/webfonts/fa-regular-400.woff2?v=896727",
+      "bytes": 25472,
+      "sha256": "e3456d1283b9d75337a773dfd147bf908fd02c01b4bf48576d8603a69b13cbe5"
+    },
+    {
+      "local": "/media/vendor/fontawesome-free/webfonts/fa-solid-900.ttf",
+      "source": "https://powerdrive.cz/media/vendor/fontawesome-free/webfonts/fa-solid-900.ttf?v=269f97",
+      "bytes": 426112,
+      "sha256": "d2f0593540b0e33ba6de255a54f272d466e31144806956bea8cfdbf7edffc9bd"
+    },
+    {
+      "local": "/media/vendor/fontawesome-free/webfonts/fa-solid-900.woff2",
+      "source": "https://powerdrive.cz/media/vendor/fontawesome-free/webfonts/fa-solid-900.woff2?v=4a6591",
+      "bytes": 158220,
+      "sha256": "aa75998623a391e61c6901794ace832e3ecdd288b56d608f21bea0411acc0b8e"
+    },
+    {
+      "local": "/media/vendor/joomla-custom-elements/css/joomla-alert.min.css",
+      "source": "https://powerdrive.cz/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1",
+      "bytes": 3654,
+      "sha256": "df8eb5ad4051778586df18f3e6a7d3368820b8e8134751fa5ac845cead9318cb"
+    },
+    {
+      "local": "/plugins/system/helixultimate/assets/css/system-j4.min.css",
+      "source": "https://powerdrive.cz/plugins/system/helixultimate/assets/css/system-j4.min.css",
+      "bytes": 5202,
+      "sha256": "26ad2efdce0cf4b83c342896236ab64d6136b0cfd1ea8ff6601f3794572c1598"
+    },
+    {
+      "local": "/styles/base.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 238591,
+      "sha256": "f3fbe0e579dcdaefb6219789ad2575fb532ba365d4f4063542fcabc0495ac058"
+    },
+    {
+      "local": "/styles/pages/co-delame.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 60081,
+      "sha256": "b71b3d5a067b3dae0ffbc615a92ffe0112e2c849f821776d361569cb6ba1b670"
+    },
+    {
+      "local": "/styles/pages/e-mail-podekovani.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 37637,
+      "sha256": "f6df5754dd1ffbddc8f3f84ff2663fb6b26cd14d481047aab9e786bb39efe290"
+    },
+    {
+      "local": "/styles/pages/home.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 126891,
+      "sha256": "e62ae7d7dff80db2f2b5a923e4d5990bc727ffec8a4f48fabc91b1b78e6ee88b"
+    },
+    {
+      "local": "/styles/pages/nase-realizace.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 36578,
+      "sha256": "630e20cf0f0007fd12431be32758c665af150452ba07afc545676fd15548260e"
+    },
+    {
+      "local": "/styles/pages/produkty.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 188757,
+      "sha256": "76bab0d5adb8a4c7c01c8a81c98b898a55236da6750a7a73aaec5f79dde047b3"
+    },
+    {
+      "local": "/styles/pages/produkty__alpitronic-hyc200.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 49400,
+      "sha256": "3202530ff7cd0951321ea6c671cfe56b9806702b00af52791c7882e24a250b3f"
+    },
+    {
+      "local": "/styles/pages/produkty__alpitronic-hyc400.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 49079,
+      "sha256": "b68652b62fb0b5e28feb67c8bcd3fd9cc51a608047cd458da08bcd95d8259f9b"
+    },
+    {
+      "local": "/styles/pages/produkty__alpitronic-hyc50.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 48794,
+      "sha256": "886f4089c3b5bee573912fa3bed5973b343d54be9eda6bf136ca107107952a16"
+    },
+    {
+      "local": "/styles/pages/produkty__eve-double-pro-line.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 50029,
+      "sha256": "ef1d2ac61e8a967d75f1f13ea1fd811013df1a3e936064806963e030961211de"
+    },
+    {
+      "local": "/styles/pages/produkty__eve-single-pro-line.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 50029,
+      "sha256": "ef38591c2991e7d389835b4d7637c8e3b08017f156769578d83fb766a71e8332"
+    },
+    {
+      "local": "/styles/pages/produkty__eve-single-s-line.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 47094,
+      "sha256": "3883a8e551efce55fac7f3e1041bf4573c405065e257d5ed216809077c045bde"
+    },
+    {
+      "local": "/styles/pages/produkty__horni-drzak-mybox-home.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 54917,
+      "sha256": "6093db84b35daf18b7884a01d8c89d8bb109b39bd898fb49935d262f12ec59c4"
+    },
+    {
+      "local": "/styles/pages/produkty__horni-drzak-mybox-plus.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 54917,
+      "sha256": "00c4da00699afb6212254af534331076702b22b438c8741955319a4398fe6e26"
+    },
+    {
+      "local": "/styles/pages/produkty__mybox-ebike.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 45193,
+      "sha256": "00c48b2a68e63cc8de02228f9f89b9bfd9b3f84f2fd3293a491d4dc698a7c393"
+    },
+    {
+      "local": "/styles/pages/produkty__mybox-home-1x-22-kw.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 50219,
+      "sha256": "75dae5b740aef93bc9fe33d6251cdd148d78c6181427227f187e8fa30eae40ce"
+    },
+    {
+      "local": "/styles/pages/produkty__mybox-maly-samostatny-hacek.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 57042,
+      "sha256": "8021afa97e2ff1af9bcde40b641957afb887a14802b7d8a6dc2f2fc18eefbdd3"
+    },
+    {
+      "local": "/styles/pages/produkty__mybox-plus-1x-22-kw.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 48676,
+      "sha256": "1bf92b89ca8b2c4808d5c6f7eb2db22ae17c6493d041e5813a03193f27a66ff4"
+    },
+    {
+      "local": "/styles/pages/produkty__mybox-post.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 45004,
+      "sha256": "93bfc5b85ccc032113e1b4ea298417dc79409ca9a1912c9844324be0f73895cf"
+    },
+    {
+      "local": "/styles/pages/produkty__mybox-profi-2x-22-kw.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 50944,
+      "sha256": "08e01830ff023f37a830cf6bc9d59c96e051e2f51a4446155c9aa93c3efb16fa"
+    },
+    {
+      "local": "/styles/pages/produkty__silentium-l-basic.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 49042,
+      "sha256": "bd67eea8c6abcc371dedb4fdada6cde8bbfb52cb99d2d3f1787436c572381c97"
+    },
+    {
+      "local": "/styles/pages/produkty__silentium-w-basic.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 49167,
+      "sha256": "ff0c6662994471efe65800588c310e6f68dd9197ff7264d53adb982afab0d9fb"
+    },
+    {
+      "local": "/styles/pages/produkty__silentium-wds-basic.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 50320,
+      "sha256": "e0c773ad8e9d5931c65272bbfe0fe6ca5d09533fb58ab526c56a65779528f6e1"
+    },
+    {
+      "local": "/styles/pages/produkty__spodni-drzak-mybox-home.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 54115,
+      "sha256": "b719a76f223780d1c54474a1e9e043c84f3331f71401c5ac39b780ae4dca357b"
+    },
+    {
+      "local": "/styles/pages/produkty__spodni-drzak-mybox-plus.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 55342,
+      "sha256": "79d1ae35b3c37b3bb810fdc527dbd7fbe87088798baa586fc8005980958573cf"
+    },
+    {
+      "local": "/styles/pages/produkty__velky-samostatny-drzak.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 54917,
+      "sha256": "a246ddc2439d4f68e0b98b18a03363bb8409c27d6e5a52810c28cc060bd45674"
+    },
+    {
+      "local": "/styles/refinements.css",
+      "source": "Compiled or authored local stylesheet",
+      "bytes": 9518,
+      "sha256": "c59dd008fd112c9e3aa62e24d756d9e13fde76cc20931c751508d2724e11c205"
+    },
+    {
+      "local": "/templates/shaper_helixultimate/css/bootstrap.min.css",
+      "source": "https://powerdrive.cz/templates/shaper_helixultimate/css/bootstrap.min.css",
+      "bytes": 194854,
+      "sha256": "b1c76350fc0086209fc475d7258857de2128715043a034206e57b4bd0f2c90ea"
+    },
+    {
+      "local": "/templates/shaper_helixultimate/css/custom.css",
+      "source": "https://powerdrive.cz/templates/shaper_helixultimate/css/custom.css",
+      "bytes": 6781,
+      "sha256": "fba4b47bd35e5db2204ff89763f1cc5f02e4d4a38823731680af42f5bd5bc952"
+    },
+    {
+      "local": "/templates/shaper_helixultimate/css/presets/preset3.css",
+      "source": "https://powerdrive.cz/templates/shaper_helixultimate/css/presets/preset3.css",
+      "bytes": 4057,
+      "sha256": "cc96da50676c68fb778308782aa0d2a2af642c441331e7ceae5566138c661a4d"
+    },
+    {
+      "local": "/templates/shaper_helixultimate/css/template.css",
+      "source": "https://powerdrive.cz/templates/shaper_helixultimate/css/template.css",
+      "bytes": 82583,
+      "sha256": "599d198f864ca70ae38c3e9c39fced930bca5d4302593e2bf6035ed9091d865e"
+    },
+    {
+      "local": "/templates/shaper_helixultimate/images/menu-bg.jpg",
+      "source": "https://powerdrive.cz/templates/shaper_helixultimate/images/menu-bg.jpg",
+      "bytes": 19374,
+      "sha256": "501199b2292207b01e63d0e4643932d6394cfc435d370c40a2603780e748d8c1"
+    }
+  ]
+}

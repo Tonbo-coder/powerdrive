@@ -1,0 +1,13 @@
+
+ Naše produkty - MYBOXPříslušenstvíZpět na hlavní nabídkuSpodní držák MyBox HomeModel MyBox Home – Spodní držák je nezbytným doplňkem pro vaši domácí nabíjecí stanici. Slouží k praktickému uložení nabíjecího kabelu a fixaci konektoru ve chvílích, kdy právě nenabíjíte. Díky svému minimalistickému provedení nenarušuje vzhled samotné stanice, naopak s ní tvoří kompaktní designový celek. Držák zajišťuje, že kabel nepřekáží, zůstává čistý a je chráněn před náhodným poškozením.SpecifikaceEfektivní řešení pro smotání kabelu a bezpečné uchycení konektoruVyrobeno z vysoce kvalitní lakované nerezové oceliOchrana kabelu před nečistotami, vlhkostí a mechanickým poškozenímDesign dokonale ladící se stanicemi řady MyBox HomeRobustní provedení odolné vůči korozi a povětrnostním vlivůmEliminace rizika zakopnutí o volně ležící kabelJednoduchá montáž na stěnu přímo pod dobíjecí staniciPrémiový vzhled a dlouhá životnost
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 

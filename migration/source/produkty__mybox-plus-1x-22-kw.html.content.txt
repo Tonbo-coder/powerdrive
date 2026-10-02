@@ -1,0 +1,21 @@
+
+ Naše produkty - MYBOXDobíjecí stanice
+Variace AC/DCZpět na hlavní nabídkuMyBox Plus 1x 22 kWModel MyBox Plus je univerzální AC nabíjecí stanice s výkonem až 22 kW, kombinující elegantní design se zkosenou hranou a výkonné technologie pro domácí i firemní použití. Nabízí variantu s kabelem či zásuvkou, robustní konstrukci (IP54/IK10) a podporu chytrého ovládání skrze mobilní aplikaci MyBox.
+Specifikace
+ Výkon až 22 kW AC – vhodné pro domácnosti i malé firmy
+ Odolnost IP54 / IK10, provozní teplota –30 °C až +50 °C
+ Varianty: integrovaný kabel nebo zásuvka – volba dle požadavku uživatele
+ Mobilní aplikace MyBox, Smart LED indikátor, připojení Wi-Fi/Ethernet – plná konektivita a přehled
+ Česká výroba z evropských komponentů, možnost individuálního potisku čelního panelu
+ Možnost dynamického řízení výkonu a integrace s fotovoltaikou – připravené na budoucí nároky
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 

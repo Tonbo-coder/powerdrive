@@ -1,0 +1,29 @@
+
+ Naše produkty - VOLTDRIVEDobíjecí stanice
+Variace AC/DCZpět na hlavní nabídkuSILENTIUM W (BASIC)Silentium W (Basic) je nástěnná AC nabíjecí stanice z hliníkové slitiny, určená pro bezpečné a spolehlivé nabíjení elektromobilů s výkonem až 22 kW. Robustní konstrukce s moderním designem umožňuje montáž v interiéru i exteriéru a zajišťuje vysokou odolnost (IP54 / IK10). Nabíjení lze spustit automaticky po připojení kabelu nebo po autorizaci RFID kartou. Díky integrovaným ochranným prvkům, proudovému chrániči Typ B, možnosti připojení k síti (LAN, Wi-Fi, LTE) a volitelnému OCPP 1.6 rozhraní představuje spolehlivé řešení pro domácí i komerční použití.
+Specifikace
+ Automatický start nabíjení po připojení kabelu nebo po autorizaci RFID kartou
+ 1 × nabíjecí bod – 230 / 400 V, max. 32 A (jedno- i třífázové nabíjení)
+ Připojení: zásuvka / rovný / spirálový kabel Typ 2 dle IEC 62196
+ Maximální nabíjecí výkon 22 kW (3 × 32 A, 400 V AC)
+ Indikace a osvětlení stavu pomocí LED – přehledné a viditelné i v noci
+ Proudový chránič Typ B (AC 30 mA + DC 6 mA) – maximální bezpečnost pro uživatele
+ Nadproudová a rozdílová ochrana – integrované bezpečnostní segmenty
+ Hliníková konstrukce, hmotnost 12 kg (verze se zásuvkou)
+ Rozměry 400 × 400 × 185 mm • Přední servisní dveře se zámkem
+ Ochrana IP54 / IK10, provozní teplota –30 °C až +50 °C
+ Připojení do sítě TN-S nebo TN-C (400 V, 32 A, 50 Hz)
+ Možnost řízení maximálního proudu nabíjení dle spotřeby objektu (ENERGY SYSTÉM Voltguard / Volterra)
+ Volitelné příslušenství: OCPP 1.6, LAN, Wi-Fi / LTE modem, MID elektroměr, RFID autorizace
+ Jednoduchá montáž, minimální nároky na údržbu
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 

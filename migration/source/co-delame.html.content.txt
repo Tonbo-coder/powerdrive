@@ -1,0 +1,25 @@
+
+ Co děláme
+ 01. ANALÝZA ⬇️
+ Spojíme se s klientem a probereme konkrétní potřeby.
+ 02. NABÍDKA ⬇️
+ Zkalkulujeme finanční nabídku ušitou přesně na míru konkrétnímu zákazníkovi.
+ 03. PROJEKT ⬇️
+ Vytvoříme projektovou dokumentaci reflektující zadání a všechny potřebné normy.
+ 04. REALIZACE ⬇️
+ Realizujeme přímo na místě a řešíme případné komplikace.
+ 05. SERVIS ⬇️
+ Zajišťujeme záruční i pozáruční servis.
+Nedáváme od naší práce ruce pryč.
+V rámci společnosti Powerdrive s.r.o. se specializujeme na elektromobilitu, především na oblast nabíjecí infrastruktury. Jsme schopni vám nabídnout komplexní technické řešení včetně dodávky potřebné technologie. Spojte se s námi a rádi vám navrhneme optimální technické řešení, které bude odpovídat potřebám vaší domácnosti nebo společnosti.
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 

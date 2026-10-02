@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-27T22:49:08+02:00",
+  "title": "Design System: Powerdrive",
+  "extensions": {
+    "colorMeta": {
+      "primary": {
+        "role": "primary",
+        "displayName": "primary"
+      },
+      "primary-hover": {
+        "role": "primary",
+        "displayName": "primary-hover"
+      },
+      "link-hover": {
+        "role": "neutral",
+        "displayName": "link-hover"
+      },
+      "link-strong": {
+        "role": "neutral",
+        "displayName": "link-strong"
+      },
+      "heading": {
+        "role": "neutral",
+        "displayName": "heading"
+      },
+      "body-muted": {
+        "role": "neutral",
+        "displayName": "body-muted"
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "white"
+      },
+      "section": {
+        "role": "neutral",
+        "displayName": "section"
+      },
+      "hero-panel": {
+        "role": "neutral",
+        "displayName": "hero-panel"
+      },
+      "icon-panel": {
+        "role": "neutral",
+        "displayName": "icon-panel"
+      },
+      "card-heading": {
+        "role": "neutral",
+        "displayName": "card-heading"
+      },
+      "card-copy": {
+        "role": "neutral",
+        "displayName": "card-copy"
+      },
+      "card-border": {
+        "role": "neutral",
+        "displayName": "card-border"
+      },
+      "pill-text": {
+        "role": "neutral",
+        "displayName": "pill-text"
+      },
+      "pill-border": {
+        "role": "neutral",
+        "displayName": "pill-border"
+      },
+      "field-text": {
+        "role": "neutral",
+        "displayName": "field-text"
+      },
+      "field-border": {
+        "role": "neutral",
+        "displayName": "field-border"
+      },
+      "mobile-menu": {
+        "role": "neutral",
+        "displayName": "mobile-menu"
+      },
+      "contact-hover": {
+        "role": "neutral",
+        "displayName": "contact-hover"
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Hero Inter",
+        "purpose": "Původní úvodní titulek; mobilní hodnoty mají vlastní role."
+      },
+      "headline": {
+        "displayName": "Sekční nadpis",
+        "purpose": "Nadpisy opakovaných domovských sekcí, nikoli univerzální H2 všech stránek."
+      },
+      "card-body": {
+        "displayName": "Popis karty",
+        "purpose": "Drobná obsahová sazba konzultačních karet."
+      }
+    },
+    "shadows": [
+      {
+        "name": "consultation-rest",
+        "value": "0 2px 10px rgba(0,0,0,0.05)",
+        "purpose": "Původní pracovní kroky v klidu."
+      },
+      {
+        "name": "consultation-hover",
+        "value": "0 8px 24px rgba(0,0,0,0.1)",
+        "purpose": "Původní hover krokové karty spolu s translateY(-4px)."
+      }
+    ],
+    "motion": [
+      {
+        "name": "scroll-default",
+        "value": "700ms",
+        "purpose": "Výchozí délka nástupu; explicitní data-motion-duration má přednost."
+      },
+      {
+        "name": "menu-in",
+        "value": "250ms ease-out",
+        "purpose": "Vysunutí mobilního dialogu zprava."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "0.01ms",
+        "purpose": "Aktuální CSS potlačí animace a přechody; obsah zůstává viditelný."
+      },
+      {
+        "name": "consultation-state",
+        "value": "300ms ease",
+        "purpose": "Původní přechod karty a odhalení popisu."
+      },
+      {
+        "name": "partners-transition",
+        "value": "transform 2000ms ease",
+        "purpose": "Posun řady partnerů; perioda 3500ms, pause při hoveru a ručním zastavení."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "sm",
+        "value": "576px"
+      },
+      {
+        "name": "md",
+        "value": "768px"
+      },
+      {
+        "name": "lg",
+        "value": "992px"
+      },
+      {
+        "name": "xl",
+        "value": "1200px"
+      },
+      {
+        "name": "xxl",
+        "value": "1400px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Hero – kontaktní CTA",
+      "kind": "button",
+      "refersTo": "button-contact",
+      "description": "Původní Chcete se zeptat? z úvodního panelu.",
+      "html": "<a class=\"ds-drive-contact\" href=\"#kontakt\">Chcete se zeptat?</a>",
+      "css": "@font-face{font-family:Inter;font-style:normal;font-weight:400;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZthjQ.ttf') format('truetype');}@font-face{font-family:Inter;font-style:normal;font-weight:600;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZthjQ.ttf') format('truetype');}@font-face{font-family:Inter;font-style:normal;font-weight:700;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthjQ.ttf') format('truetype');}.ds-drive-contact{display:inline-block;background:#6ea6e7;color:#fff;padding:15px 30px;text-decoration:none;border-radius:4px;font-family:Inter,sans-serif;font-size:18px;font-weight:500;white-space:nowrap;transition:background-color .3s ease;}.ds-drive-contact:hover{background:#9fbee6;color:#fff;}.ds-drive-contact:focus-visible{outline:3px solid #6ea6e7;outline-offset:4px;}"
+    },
+    {
+      "name": "Menší akce",
+      "kind": "button",
+      "refersTo": "button-action",
+      "description": "Původní Poptat řešení ze sekce Co děláme.",
+      "html": "<a class=\"ds-drive-action\" href=\"#kontakt\">Poptat řešení</a>",
+      "css": "@font-face{font-family:Inter;font-style:normal;font-weight:400;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZthjQ.ttf') format('truetype');}@font-face{font-family:Inter;font-style:normal;font-weight:600;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZthjQ.ttf') format('truetype');}@font-face{font-family:Inter;font-style:normal;font-weight:700;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthjQ.ttf') format('truetype');}.ds-drive-action{display:inline-block;padding:8px 12px;background:#6ea6e7;color:#fff;border:1px solid transparent;border-radius:4px;font-family:Inter,sans-serif;font-size:16px;font-weight:400;line-height:1.25;text-decoration:none;transition:all .15s ease-in-out;}.ds-drive-action:hover{background:#9fbee6;color:#fff;}.ds-drive-action:focus-visible{outline:3px solid #6ea6e7;outline-offset:4px;}"
+    },
+    {
+      "name": "Textové CTA",
+      "kind": "button",
+      "refersTo": "button-link",
+      "description": "Původní odkaz na realizace; modrý text a lokální zelená spodní linka jsou zachovaná odchylka.",
+      "html": "<a class=\"ds-drive-link\" href=\"/nase-realizace\">Všechny realizace</a>",
+      "css": "@font-face{font-family:Inter;font-style:normal;font-weight:400;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZthjQ.ttf') format('truetype');}@font-face{font-family:Inter;font-style:normal;font-weight:600;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZthjQ.ttf') format('truetype');}@font-face{font-family:Inter;font-style:normal;font-weight:700;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthjQ.ttf') format('truetype');}.ds-drive-link{display:inline-block;background:transparent;color:#6ea6e7;padding:8px 12px;border-bottom:1px solid #10b981;font-family:Inter,sans-serif;font-size:16px;line-height:1.25;text-decoration:none;transition:color .4s,background-color .4s;}.ds-drive-link:hover{color:#3071ff;border-color:#059669;}.ds-drive-link:focus-visible{outline:3px solid #6ea6e7;outline-offset:4px;}"
+    },
+    {
+      "name": "Kontaktní pole",
+      "kind": "input",
+      "refersTo": "input-contact",
+      "description": "Bílé orámované pole z kontaktního formuláře.",
+      "html": "<label class=\"ds-drive-label\" for=\"ds-drive-email\">E-mail *</label><input class=\"ds-drive-field\" id=\"ds-drive-email\" type=\"email\" autocomplete=\"email\" required>",
+      "css": "@font-face{font-family:Inter;font-style:normal;font-weight:400;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZthjQ.ttf') format('truetype');}@font-face{font-family:Inter;font-style:normal;font-weight:600;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZthjQ.ttf') format('truetype');}@font-face{font-family:Inter;font-style:normal;font-weight:700;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthjQ.ttf') format('truetype');}.ds-drive-label{display:block;font-family:Inter,sans-serif;font-size:16px;line-height:24px;margin-bottom:8px;color:#b5b5b5;}.ds-drive-field{display:block;width:100%;padding:10px 12px;min-height:44px;border:1px solid #cfd6dc;border-radius:15px;background:#fff;color:#303b46;font-family:Inter,sans-serif;font-size:16px;line-height:24px;transition:.35s;}.ds-drive-field:focus{border-color:#80bdff;}.ds-drive-field:focus-visible{outline:3px solid #6ea6e7;outline-offset:4px;}"
+    },
+    {
+      "name": "Štítek značky",
+      "kind": "chip",
+      "refersTo": "brand-pill",
+      "description": "Statická značka z části Produkty; není ovladačem filtru.",
+      "html": "<span class=\"ds-drive-pill\">ALFEN</span>",
+      "css": "@font-face{font-family:Inter;font-style:normal;font-weight:400;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZthjQ.ttf') format('truetype');}@font-face{font-family:Inter;font-style:normal;font-weight:600;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZthjQ.ttf') format('truetype');}@font-face{font-family:Inter;font-style:normal;font-weight:700;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthjQ.ttf') format('truetype');}.ds-drive-pill{display:inline-block;padding:8px 16px;border:1px solid #e2e8f0;border-radius:9999px;background:#fff;color:#1f2937;font-family:Inter,sans-serif;font-size:12px;line-height:1;}"
+    },
+    {
+      "name": "Pracovní krok – textová část",
+      "kind": "card",
+      "refersTo": "consultation-card",
+      "description": "Výřez skutečné konzultační karty s původním odhalováním popisu. Fontová ikona a stará šipka v titulku nejsou povýšeny na novou sadu ikon.",
+      "html": "<div class=\"ds-drive-step\" tabindex=\"0\"><h2 class=\"ds-drive-step-title\">01. ANALÝZA</h2><p class=\"ds-drive-step-copy\">Spojíme se s klientem a probereme konkrétní potřeby.</p></div>",
+      "css": "@font-face{font-family:Inter;font-style:normal;font-weight:400;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZthjQ.ttf') format('truetype');}@font-face{font-family:Inter;font-style:normal;font-weight:600;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZthjQ.ttf') format('truetype');}@font-face{font-family:Inter;font-style:normal;font-weight:700;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthjQ.ttf') format('truetype');}.ds-drive-step{background:#fff;border:1px solid #e1e1e1;border-radius:20px;padding:25px;text-align:center;box-shadow:0 2px 10px rgba(0,0,0,.05);transition:all .3s ease;cursor:pointer;max-width:300px;}.ds-drive-step-title{font-family:Inter,sans-serif;font-size:16px;font-weight:600;line-height:30px;color:#333;margin:0 0 12px;}.ds-drive-step-copy{font-family:Inter,sans-serif;color:#666;font-size:14px;line-height:1.5;opacity:0;max-height:0;transition:all .3s ease;}.ds-drive-step:hover{box-shadow:0 8px 24px rgba(0,0,0,.1);transform:translateY(-4px);}.ds-drive-step:hover .ds-drive-step-copy{opacity:1;max-height:100px;}.ds-drive-step:focus .ds-drive-step-copy,.ds-drive-step:focus-within .ds-drive-step-copy{opacity:1;max-height:180px;}.ds-drive-step:focus-visible{outline:3px solid #6ea6e7;outline-offset:4px;}@media(hover:none){.ds-drive-step-copy{opacity:1;max-height:none;}}@media(max-width:575px){.ds-drive-step{padding:20px;}.ds-drive-step-copy{font-size:13px;}}@media(prefers-reduced-motion:reduce){.ds-drive-step,.ds-drive-step-copy{transition-duration:.01ms;}}"
+    },
+    {
+      "name": "Mobilní navigace – obsah",
+      "kind": "nav",
+      "description": "Výřez mobilního menu s nativním rozbalením; modalitu zajišťuje v aplikaci dialog.",
+      "html": "<nav class=\"ds-drive-nav\" aria-label=\"Ukázka mobilní navigace\"><a href=\"/\">Úvod</a><a href=\"/co-delame\">Co děláme</a><details><summary>Produkty</summary><a href=\"/produkty#MYBOX\">AC dobíjecí stanice</a><a href=\"/produkty#DCMYBOX\">DC dobíjecí stanice</a></details><a href=\"/#kontakt\">Kontakt</a></nav>",
+      "css": "@font-face{font-family:Inter;font-style:normal;font-weight:400;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZthjQ.ttf') format('truetype');}@font-face{font-family:Inter;font-style:normal;font-weight:600;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZthjQ.ttf') format('truetype');}@font-face{font-family:Inter;font-style:normal;font-weight:700;font-display:swap;src:url('/external/fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZthjQ.ttf') format('truetype');}.ds-drive-nav{background:#1f2937;color:#fff;padding:32px 24px;max-width:360px;font-family:Inter,sans-serif;}.ds-drive-nav a,.ds-drive-nav summary{display:block;padding:12px 0;line-height:1.5;color:#fff;text-decoration:none;cursor:pointer;}.ds-drive-nav details a{padding-left:15px;}.ds-drive-nav a:hover{text-decoration:underline;}.ds-drive-nav a:focus-visible{outline:3px solid #6ea6e7;outline-offset:4px;}.ds-drive-nav summary:focus-visible{outline:3px solid #6ea6e7;outline-offset:4px;}.ds-drive-nav summary::after{content:'';float:right;width:8px;height:8px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);margin:6px 4px 0 12px;}.ds-drive-nav details[open]>summary::after{transform:rotate(225deg);margin-top:10px;}"
+    },
+    {
+      "name": "Partneři – ovladač pauzy",
+      "kind": "button",
+      "description": "Skutečný SVG ovladač řady partnerů. Samostatný náhled nemá připojený časovač.",
+      "html": "<button class=\"ds-drive-carousel\" type=\"button\" aria-label=\"Pozastavit posun partnerů\" aria-pressed=\"false\"><svg class=\"ds-icon\" viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"4\" stroke-linecap=\"round\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M8 5v14M16 5v14\"/></svg></button>",
+      "css": ".ds-drive-carousel{width:32px;height:32px;border:1px solid #d5dbe1;background:#fff;color:#424b54;opacity:.65;font-size:14px;border-radius:4px;cursor:pointer;}.ds-drive-carousel:hover,.ds-drive-carousel:focus-visible{opacity:1;}.ds-drive-carousel:focus-visible{outline:3px solid #6ea6e7;outline-offset:4px;}.ds-drive-carousel .ds-icon{vertical-align:middle;}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Původní Powerdrive",
+    "overview": "Vizuální autoritou je původní firemní web zachycený v `migration/source/` a `migration/reference/`. Název výše pouze označuje tuto autoritu. `PRODUCT.md` vyžaduje zachovat identitu, fotografie, typografii, rozvržení a animace; nevzniká nová kreativní koncepce.\n\nDokument popisuje implementaci k 27. 9. 2026. Podkladem jsou `public/styles/base.css`, `public/styles/refinements.css`, `public/styles/pages/home.css`, další stránkové CSS a komponenty v `content/pages/` a `components/`. Původní snímky jsou `migration/reference/desktop.png` a `mobile.png`, lokální kontrolní snímky leží v `.impeccable/review/`. Frontmatter obsahuje opakovaně použité hodnoty; konkrétní stránkové odchylky zůstávají ve svém zdroji. Tento zápis sám nepotvrzuje pixelovou shodu.",
+    "keyCharacteristics": [
+      "Světlá modrá pro akce, bílá a velmi světlé neutrální sekce.",
+      "Inter v nadpisech, navigaci a obsahových blocích.",
+      "Původní fotografie nabíjení přes celou šířku a světlý průsvitný úvodní panel.",
+      "Zaoblené karty, fotografie produktů, reference a pohyblivá řada log partnerů."
+    ],
+    "rules": [
+      {
+        "name": "The Original Palette Rule",
+        "body": "Používat převzaté modré a neutrální role v původních souvislostech; nesjednocovat je s šedomodrou Power Pro.",
+        "section": "colors"
+      },
+      {
+        "name": "The Local Typography Rule",
+        "body": "Zachovat konkrétní sazbu nadpisů, karet a produktových detailů; nenahrazovat ji jedním globálním H1/H2 systémem.",
+        "section": "typography"
+      }
+    ],
+    "dos": [
+      "**Do** porovnávat změny s původními snímky na desktopu i telefonu.",
+      "**Do** zachovat fotografie nabíječek, produktů, realizací a loga partnerů v jejich původní roli.",
+      "**Do** respektovat stránkové rozměry, barevné výjimky a rozdílné varianty karet.",
+      "**Do** zachovat přístupný fokus, klávesnici, čitelný obsah bez hoveru a omezený pohyb."
+    ],
+    "donts": [
+      "**Don't** zavádět nový vizuální směr ani sloučit Powerdrive s identitou Power Pro.",
+      "**Don't** měnit statické štítky značek na funkce, které původní komponenta nemá.",
+      "**Don't** přebírat chybějící obrázky nebo historické přetečení jako závazný designový vzor.",
+      "**Don't** vytvářet nová marketingová tvrzení, syntetické barevné řady nebo nové ilustrační materiály."
+    ]
+  }
+}

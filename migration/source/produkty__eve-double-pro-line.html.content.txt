@@ -1,0 +1,13 @@
+
+ Naše produkty - ALFENDobíjecí staniceVariace AC/DCZpět na hlavní nabídkuEve Double Pro-lineŘada Eve Double Pro je vlajkovou lodí inteligentního řešení společnosti Alfen pro poloveřejné prostředí, jako jsou podniky a supermarkety. Jeho robustní pouzdro je navrženo pro vysoké využití a pravidelné změny uživatele a lze jej připevnit na stěnu nebo na sloup. Obsahuje dvě zásuvky s volitelným rozložením zátěže na obou. Uživatelská rozhraní zahrnují barevnou obrazovku s možností nahrávání loga. Integrovaná RFID čtečka podporuje identifikaci uživatele a MID-metr umožňuje finanční vypořádání. Připojení k internetu je přes LTE/Ethernet, data jsou dostupná prostřednictvím zvoleného poskytovatele systému správy třetí strany.SpecifikaceKapacita nabíjení 3,7 kW až 22 kWVybaveno dvěma zásuvkamiMontáž na stěnu nebo samostatně s volitelnou montážní deskouStandardní elektroměr MID k vyrovnání spotřebované energieDisplej lze konfigurovat v různých jazycíchPlug & Charge nebo RFID autorizaceZámek SIM zdarma; svobodná volba pro poskytovatele nabíjecích služebEvropská kvalita A: solidní a prémiový produktSnadná konfiguraceSplňuje všechny příslušné normy včetně IEC 61851:2017 – IEC 61851:2017 a má RCD, které chrání proti svodovým proudůmPlně barevný 3,5″ barevný displejDynamické vyvažování zátěže umožněno díky spolupráci s inteligentními měřiči (DSMR) nebo externími měřiči energie (Modbus TCP/IP)
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 

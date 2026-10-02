@@ -1,0 +1,22 @@
+
+ Naše produkty - MYBOXPříslušenstvíZpět na hlavní nabídkuMyBox Malý Samostatný HáčekModel MyBox – Malý samostatný háček je minimalistický háček navržený pro pohodlné a estetické uložení nabíjecího kabelu wallboxu na libovolném místě na stěně. Díky kompaktním rozměrům a pevné konstrukci spolehlivě udrží i několikrát omotaný kabel, nepřekáží a skvěle doplňuje design vaší nabíjecí stanice MyBox. 
+Specifikace
+ Decentní a kompaktní háček pro přehledné uložení kabelu
+ Navržen tak, aby byl stabilní i přes malé rozměry
+ Vysoká hrana pro bezpečné zavěšení několikrát omotaného kabelu
+ Kovové provedení s nerezovou povrchovou úpravou
+ Minimalistický design, který nenarušuje vzhled nabíjecí stanice
+ Flexibilní umístění – zavěsíte ho kdekoliv na stěnu
+ Vhodný pro všechny typy nabíječek značky MyBox
+ Jednoduchá montáž bez komplikovaného nářadí
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 

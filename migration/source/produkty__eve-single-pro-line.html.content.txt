@@ -1,0 +1,31 @@
+
+ Naše produkty - ALFENDobíjecí staniceVariace AC/DCZpět na hlavní nabídkuEve Single Pro-line 
+ Eve Single Pro-line, navržená tak, aby byla fyzicky kompaktní, aniž by byla ohrožena jakákoliv
+ z chytrých funkcí Alfen, je vhodná pro obchodní i domácí použití a lze ji
+ namontovat na stěnu nebo na sloup. Uživatelské rozhraní má barevnou obrazovku s možností nahrávání loga.
+ Integrovaná RFID čtečka podporuje identifikaci uživatele a MID elektroměr umožňuje finanční vypořádání.
+ Připojení k internetu je přes LTE nebo ethernet, data jsou dostupná prostřednictvím zvoleného poskytovatele
+ systému správy třetí strany.
+ Specifikace
+ Ultra-malé moderní pouzdro
+ Kapacita nabíjení 3,7 kW až 22 kW
+ Zásuvka nebo pevný kabel (typ 1 nebo 2)
+ Montáž na stěnu nebo samostatně s volitelnou montážní deskou
+ Dynamické vyvažování zátěže díky propojení s chytrým měřičem
+ Plně barevný 3,5″ displej
+ Možnost konfigurace displeje v různých jazycích
+ Bez zámku SIM – svobodná volba poskytovatele služeb
+ Elektroměr s certifikací MID pro výpočet transakčních nákladů
+ Plug & Charge nebo RFID autorizace
+ Evropská kvalita A – solidní a prémiový produkt
+Konzultace, projekt, realizace včetně instalačních a zemních prací pro domácnosti, firmy i veřejný sektor.
+ Kontakt
+Červený Kříž 286, 586 01 Jihlava
+ +420 774 966 547
+ info@powerdrive.cz
+IČO: 21096155, DIČ: CZ21096155
+C 137482/KSBR Krajský soud v Brně
+ © Power drive s.r.o. Designed By 
+ Antonín Bouchal
+ document.getElementById("year").textContent = new Date().getFullYear();
+ 
