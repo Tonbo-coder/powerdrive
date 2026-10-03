@@ -121,8 +121,6 @@ button:disabled { cursor: wait; opacity: .65; }
 .partner-track { display:flex; width:100%; }
 .partner-logo { flex:0 0 calc(100% / var(--partner-count)); padding:15px 0; min-width:0; }
 .partner-logo img { display:block; width:100%; height:auto; }
-.carousel-control { position:absolute; bottom:0; right:0; width:32px; height:32px; border:1px solid #d5dbe1; background:#fff; color:#424b54; opacity:.65; font-size:14px; border-radius:4px; }
-.partner-carousel:focus-within .carousel-control,.partner-carousel:hover .carousel-control { opacity:1; }
 @media(max-width:1199px){.partner-carousel{--partner-count:4}}
 @media(max-width:991px){.partner-carousel{--partner-count:3}}
 @media(max-width:575px){.partner-carousel{--partner-count:2}}
