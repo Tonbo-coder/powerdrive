@@ -107,6 +107,15 @@ button:disabled { cursor: wait; opacity: .65; }
 .menu-chevron { display:inline-block; width:.5em; height:.5em; border-right:2px solid currentColor; border-bottom:2px solid currentColor; transform:rotate(45deg); margin-left:12px; vertical-align:.2em; }
 .brand-pro .menu-chevron { margin-right: 2px; }
 .brand-drive .sp-megamenu-parent > li.active > a { font-weight:500; }
+/* Keep product brands beside their parent item, as in the original menu. */
+.brand-drive .sp-megamenu-parent .sp-dropdown-sub { top:0; left:100%; right:auto; }
+.brand-drive .sp-megamenu-parent .sp-dropdown li.sp-menu-item .menu-chevron { padding:0; transform:rotate(-45deg); vertical-align:.1em; }
+@media (min-width:992px) and (max-width:1699px) {
+  .brand-drive .sp-megamenu-parent .sp-dropdown-main { left:auto; right:20px; }
+}
+@media (min-width:992px) and (max-width:1199px) {
+  .brand-drive .sp-megamenu-parent .sp-dropdown-main { right:40px; }
+}
 .partner-carousel { --partner-count:5; overflow:hidden; position:relative; }
 .partner-track { display:flex; width:100%; }
 .partner-logo { flex:0 0 calc(100% / var(--partner-count)); padding:15px 0; min-width:0; }
