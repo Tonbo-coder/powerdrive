@@ -44,8 +44,11 @@ button:disabled { cursor: wait; opacity: .65; }
 .contact-form label { display: block; margin-bottom: 5px; }
 .contact-form .ui-form-control { width: 100%; border: 1px solid #cfd6dc; border-radius: 4px; background: #fff; padding: 10px 12px; min-height: 44px; color: #303b46; }
 .contact-form textarea.ui-form-control { height: 130px; resize: vertical; }
-.contact-form .consent-field label { display: flex; align-items: flex-start; gap: 10px; width: 100% !important; font-size: 16px; line-height: 1.5; }
-.consent-field input { flex-shrink: 0; margin-top: 5px; accent-color: #5b9be5; width: 18px; height: 18px; }
+.contact-form .consent-field label { display: flex; align-items: center; gap: 10px; width: 100% !important; font-size: 16px; line-height: 1.5; }
+.contact-form .consent-field input { appearance: none; display: grid; place-content: center; flex-shrink: 0; margin: 0; width: 18px; height: 18px; border: 1px solid #6ea6e7; border-radius: 2px; background: #fff; accent-color: #6ea6e7; cursor: pointer; }
+.contact-form .consent-field input:checked { background: #6ea6e7; }
+.contact-form .consent-field input:checked::before { content: ''; width: 9px; height: 5px; border-left: 2px solid #fff; border-bottom: 2px solid #fff; transform: translateY(-1px) rotate(-45deg); }
+@media (forced-colors: active) { .contact-form .consent-field input { appearance: auto; } }
 .form-actions, .form-message { flex-basis: 100%; }
 .contact-form .form-actions button { background: #424b54; border: 1px solid #424b54; color: #fff; padding: 12px 24px; border-radius: 4px; }
 .brand-drive .contact-form .form-actions button { background: #6ea6e7; border-color: #6ea6e7; }
