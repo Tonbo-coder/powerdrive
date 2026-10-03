@@ -64,6 +64,7 @@ button:disabled { cursor: wait; opacity: .65; }
 @media(max-width:575px) { .pro-contact-form .verification-field { flex-basis: 100%; } }
 .control-icon { vertical-align: middle; flex-shrink: 0; }
 .gallery-close .control-icon, .gallery-prev .control-icon, .gallery-next .control-icon { width: 30px; height: 30px; }
+.brand-drive #page-content-root .consultation-card { cursor: default; }
 .consultation-card:focus .description, .consultation-card:focus-within .description { opacity: 1; max-height: 180px; }
 .gallery-dialog { padding: 0; border: 0; background: transparent; color: #fff; max-width: 95vw; max-height: 95dvh; overflow: visible; }
 .gallery-dialog::backdrop { background: rgb(0 0 0 / .9); }
