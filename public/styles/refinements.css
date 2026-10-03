@@ -71,7 +71,7 @@ button:disabled { cursor: wait; opacity: .65; }
 .gallery-dialog figure { margin: 0; }
 .gallery-dialog figure img { display: block; max-width: 85vw; max-height: 80dvh; width: auto; height: auto; margin: auto; object-fit: contain; background: #fff; }
 .gallery-dialog figcaption { padding: 14px 50px; text-align: center; }
-.gallery-dialog figcaption span { margin-left: 18px; color: #ddd; }
+.gallery-dialog figcaption span { color: #ddd; }
 .gallery-close, .gallery-prev, .gallery-next { position: fixed; padding: 10px; border: 0; color: #fff; background: transparent; font-size: 42px; min-width: 44px; min-height: 44px; }
 .gallery-close { top: 12px; right: 20px; }
 .gallery-prev { left: 12px; top: 45%; }

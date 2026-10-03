@@ -48,7 +48,7 @@ export default function SiteInteractions({ pageKey }: { pageKey: string }) {
     {hasVideo && <button className="video-toggle" aria-label={videoPaused ? "Přehrát video na pozadí" : "Pozastavit video na pozadí"} onClick={() => { const paused = !videoPaused; document.querySelectorAll<HTMLVideoElement>("video[data-background-video]").forEach(v => paused ? v.pause() : void v.play().catch(() => undefined)); setVideoPaused(paused); }}><Icon name={videoPaused ? "play" : "pause"} /></button>}
     <dialog ref={dialog} className="gallery-dialog" aria-label="Galerie fotografií" onCancel={closeGallery} onClick={e => { if (e.target === e.currentTarget) closeGallery(); }} onKeyDown={e => { if (e.key === "ArrowRight") move(1); if (e.key === "ArrowLeft") move(-1); }}>
       <button className="gallery-close" onClick={closeGallery} aria-label="Zavřít galerii"><Icon name="close" /></button>
-      {images[index] && <figure><img src={images[index].src} alt={images[index].caption} /><figcaption>{images[index].caption} <span>{index + 1} / {images.length}</span></figcaption></figure>}
+      {images[index] && <figure><img src={images[index].src} alt={images[index].caption} /><figcaption><span>{index + 1} / {images.length}</span></figcaption></figure>}
       {images.length > 1 && <><button className="gallery-prev" onClick={() => move(-1)} aria-label="Předchozí fotografie"><Icon name="previous" /></button><button className="gallery-next" onClick={() => move(1)} aria-label="Další fotografie"><Icon name="next" /></button></>}
     </dialog>
   </>;
